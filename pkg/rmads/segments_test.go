@@ -3,12 +3,12 @@ package rmads
 import (
 	"context"
 	"fmt"
-	"os/exec"
 	"testing"
 	"time"
 
 	"github.com/stretchr/testify/assert"
 	"github.com/tartale/go/pkg/filez"
+	"github.com/tartale/remove-ads/pkg/config"
 	"github.com/tartale/remove-ads/test"
 )
 
@@ -99,16 +99,14 @@ func TestMakeRemoveSegmentsCmd(t *testing.T) {
 	testMetadataPath, _, testTransportStreamPath := test.GetTestFiles()
 	test.CheckFilesExist(t, testMetadataPath, testTransportStreamPath)
 
-	ffmpegPath, err := exec.LookPath("ffmpeg")
-	if err != nil {
-		assert.Fail(t, "failing test; ffmpeg required in path")
-	}
-
 	metadataInput := filez.MustReadAll(testMetadataPath)
 	markers, err := ImportTivoClipMetadata(metadataInput)
 	assert.Nil(t, err)
 
-	expectedFfmpegCmd := fmt.Sprintf(`%s -y -i %s -vf select='between(t\,1\,20)+between(t\,30\,40)+between(t\,2\,19)+between(t\,23\,39),setpts=N/FRAME_RATE/TB' -af aselect='between(t\,1\,20)+between(t\,30\,40)+between(t\,2\,19)+between(t\,23\,39),asetpts=N/SR/TB' -`, ffmpegPath, testTransportStreamPath)
+	expectedFfmpegCmd := fmt.Sprintf(`%s -y -i %s `+
+		`-vf select='between(t\,1\,20)+between(t\,30\,40)+between(t\,2\,19)+between(t\,23\,39),setpts=N/FRAME_RATE/TB' `+
+		`-af aselect='between(t\,1\,20)+between(t\,30\,40)+between(t\,2\,19)+between(t\,23\,39),asetpts=N/SR/TB' -`,
+		config.Values.FFmpegFilePath, testTransportStreamPath)
 	ffmpegCmd, err := markers.Segments.makeRemoveCommand(testTransportStreamPath, "")
 
 	assert.Nil(t, err)
@@ -116,10 +114,6 @@ func TestMakeRemoveSegmentsCmd(t *testing.T) {
 }
 
 func TestRemoveSegments(t *testing.T) {
-	_, err := exec.LookPath("ffmpeg")
-	if err != nil {
-		assert.Fail(t, "failing test; ffmpeg required in path")
-	}
 
 	ctx := context.Background()
 	_, metadataPath, transportStreamPath := test.GetTestFiles()

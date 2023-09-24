@@ -10,6 +10,7 @@ import (
 	"github.com/tartale/go/pkg/logz"
 	"github.com/tartale/go/pkg/mathx"
 	"github.com/tartale/go/pkg/slicez"
+	"github.com/tartale/remove-ads/pkg/config"
 )
 
 // Invert will, given a list of non-overlapping
@@ -74,10 +75,6 @@ func (s Segments) Remove(ctx context.Context, inputFilePath, outputFilePath stri
 
 func (s Segments) makeRemoveCommand(inputFilePath, outputFilePath string) (*exec.Cmd, error) {
 
-	ffmpegPath, err := exec.LookPath("ffmpeg")
-	if err != nil {
-		return nil, err
-	}
 	if inputFilePath == "" {
 		inputFilePath = "-"
 	}
@@ -95,7 +92,8 @@ func (s Segments) makeRemoveCommand(inputFilePath, outputFilePath string) (*exec
 	timeSelectArg := strings.Join(timeSelect, "+")
 	videoSelectArg := fmt.Sprintf("select='%s,setpts=N/FRAME_RATE/TB'", timeSelectArg)
 	audioSelectArg := fmt.Sprintf("aselect='%s,asetpts=N/SR/TB'", timeSelectArg)
-	ffmpegCmd := exec.Command(ffmpegPath, "-y", "-i", inputFilePath, "-vf", videoSelectArg, "-af", audioSelectArg, outputFilePath)
+	ffmpegCmd := exec.Command(config.Values.FFmpegFilePath, "-y", "-i", inputFilePath,
+		"-vf", videoSelectArg, "-af", audioSelectArg, outputFilePath)
 
 	return ffmpegCmd, nil
 }
