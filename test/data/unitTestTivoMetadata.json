@@ -1,0 +1,44 @@
+{
+  "clipMetadata": [
+    {
+      "clipMetadataId": "tivo:cm.01234",
+      "contentId": "tivo:ct.56789",
+      "segment": [
+        {
+          "description": "Segment 1",
+          "startOffset": "1000",
+          "endOffset": "20000",
+          "type": "clipSegment"
+        },
+        {
+          "description": "Segment 2",
+          "startOffset": "30000",
+          "endOffset": "40000",
+          "type": "clipSegment"
+        }
+      ],
+      "segmentType": "adSkip",
+      "type": "clipMetadata"
+    },
+    {
+      "clipMetadataId": "tivo:cm.01234",
+      "contentId": "tivo:ct.56789",
+      "segment": [
+        {
+          "description": "Segment 1",
+          "startOffset": "2000",
+          "endOffset": "19000",
+          "type": "clipSegment"
+        },
+        {
+          "description": "Segment 2",
+          "startOffset": "23000",
+          "endOffset": "39000",
+          "type": "clipSegment"
+        }
+      ],
+      "segmentType": "adSkip",
+      "type": "clipMetadata"
+    }
+  ]
+}

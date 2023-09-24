@@ -1,0 +1,7617 @@
+{
+  "clipMetadata": [
+    {
+      "clipMetadataId": "tivo:cm.660062",
+      "contentId": "tivo:ct.475307640",
+      "segment": [
+        {
+          "description": "Segment 1",
+          "endOffset": "412257",
+          "startOffset": "0",
+          "type": "clipSegment"
+        },
+        {
+          "description": "Segment 2",
+          "endOffset": "969530",
+          "startOffset": "607143",
+          "type": "clipSegment"
+        },
+        {
+          "description": "Segment 4",
+          "endOffset": "1678093",
+          "startOffset": "1166530",
+          "type": "clipSegment"
+        },
+        {
+          "description": "Segment 6",
+          "endOffset": "1980000",
+          "startOffset": "1903090",
+          "type": "clipSegment"
+        }
+      ],
+      "segmentType": "adSkip",
+      "syncMark": [
+        {
+          "hash": "4451433",
+          "timestamp": "1615",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3263689977",
+          "timestamp": "3583",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1546446444",
+          "timestamp": "5952",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2944799014",
+          "timestamp": "8255",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "146559937",
+          "timestamp": "10423",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2194134698",
+          "timestamp": "12159",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2554378335",
+          "timestamp": "15195",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4037785353",
+          "timestamp": "17197",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1548211227",
+          "timestamp": "20534",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2338287941",
+          "timestamp": "22369",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "774557351",
+          "timestamp": "29609",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2400097920",
+          "timestamp": "40620",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3861913057",
+          "timestamp": "42022",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3797095500",
+          "timestamp": "44191",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2041954866",
+          "timestamp": "45859",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4010313036",
+          "timestamp": "47561",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2617503079",
+          "timestamp": "50297",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3265172533",
+          "timestamp": "51798",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3520107191",
+          "timestamp": "53767",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3777399703",
+          "timestamp": "54901",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "481377165",
+          "timestamp": "56937",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1920689187",
+          "timestamp": "58071",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "656544099",
+          "timestamp": "60073",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3424943960",
+          "timestamp": "62576",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4144686019",
+          "timestamp": "63910",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2801545770",
+          "timestamp": "65812",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4018318885",
+          "timestamp": "66880",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1494301684",
+          "timestamp": "68481",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3508851260",
+          "timestamp": "71318",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1291392202",
+          "timestamp": "73920",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3017823913",
+          "timestamp": "76289",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2389058338",
+          "timestamp": "77724",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1782646854",
+          "timestamp": "79726",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1665763951",
+          "timestamp": "80961",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2062908792",
+          "timestamp": "82395",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3807263902",
+          "timestamp": "84130",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1277736561",
+          "timestamp": "85465",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "878350241",
+          "timestamp": "87267",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2797676375",
+          "timestamp": "88401",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2006615399",
+          "timestamp": "90070",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1345121814",
+          "timestamp": "92105",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2218203318",
+          "timestamp": "93673",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2335551991",
+          "timestamp": "94975",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4123366183",
+          "timestamp": "96576",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2455331231",
+          "timestamp": "98778",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3395235496",
+          "timestamp": "101815",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1809556929",
+          "timestamp": "104351",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "423153140",
+          "timestamp": "106987",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4145715121",
+          "timestamp": "110056",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1023481383",
+          "timestamp": "112692",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "702620335",
+          "timestamp": "113760",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "76183552",
+          "timestamp": "115729",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2907522119",
+          "timestamp": "116796",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3164945976",
+          "timestamp": "118832",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1571612830",
+          "timestamp": "122302",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "388608",
+          "timestamp": "124838",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4281037943",
+          "timestamp": "134848",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3993957064",
+          "timestamp": "136650",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2502251276",
+          "timestamp": "138685",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3991687453",
+          "timestamp": "139953",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3736954798",
+          "timestamp": "142222",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "928686722",
+          "timestamp": "145892",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3776438771",
+          "timestamp": "146960",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "19045888",
+          "timestamp": "149262",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1920514093",
+          "timestamp": "150664",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1100612380",
+          "timestamp": "152565",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2111642732",
+          "timestamp": "153833",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1800577571",
+          "timestamp": "154901",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3864262975",
+          "timestamp": "156369",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1398744908",
+          "timestamp": "157804",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3840092827",
+          "timestamp": "159205",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3587478160",
+          "timestamp": "161508",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2695178809",
+          "timestamp": "164077",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "640412243",
+          "timestamp": "167180",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3938305186",
+          "timestamp": "168481",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2922087268",
+          "timestamp": "169749",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "464198311",
+          "timestamp": "171151",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "357497338",
+          "timestamp": "172152",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2905084525",
+          "timestamp": "173520",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3437955638",
+          "timestamp": "176856",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4143208376",
+          "timestamp": "179693",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3357735391",
+          "timestamp": "182362",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1007118735",
+          "timestamp": "185498",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1800329665",
+          "timestamp": "187067",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3891446929",
+          "timestamp": "188601",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "509226831",
+          "timestamp": "190270",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2000736594",
+          "timestamp": "193807",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "664224062",
+          "timestamp": "195108",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "361902800",
+          "timestamp": "197110",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3752390537",
+          "timestamp": "198445",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "68825959",
+          "timestamp": "199446",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3361142327",
+          "timestamp": "200613",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "380811611",
+          "timestamp": "201848",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1864508775",
+          "timestamp": "204117",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2851876682",
+          "timestamp": "206219",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2056407064",
+          "timestamp": "209622",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4062633514",
+          "timestamp": "211558",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2771941060",
+          "timestamp": "215128",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2305450646",
+          "timestamp": "216529",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3110151651",
+          "timestamp": "217630",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1442454447",
+          "timestamp": "219099",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3778335675",
+          "timestamp": "220567",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "631867997",
+          "timestamp": "223002",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "564111109",
+          "timestamp": "224637",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2764156915",
+          "timestamp": "225905",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3433593636",
+          "timestamp": "226940",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2957664906",
+          "timestamp": "231244",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3560158150",
+          "timestamp": "235382",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2841636360",
+          "timestamp": "237550",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4020568609",
+          "timestamp": "239552",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1814932062",
+          "timestamp": "241254",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3966769520",
+          "timestamp": "243390",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2535535793",
+          "timestamp": "244858",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4135805228",
+          "timestamp": "245959",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "745712250",
+          "timestamp": "247994",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1047435527",
+          "timestamp": "249763",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "28573019",
+          "timestamp": "252399",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4056632847",
+          "timestamp": "254601",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "565075126",
+          "timestamp": "257570",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1279026744",
+          "timestamp": "260940",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3955264264",
+          "timestamp": "262842",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3800308153",
+          "timestamp": "264344",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4148082918",
+          "timestamp": "265879",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3617902243",
+          "timestamp": "266980",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3438732499",
+          "timestamp": "268248",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3327629577",
+          "timestamp": "269549",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3158980057",
+          "timestamp": "271384",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2169361730",
+          "timestamp": "272685",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3111161429",
+          "timestamp": "276689",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1131457830",
+          "timestamp": "278024",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3738184513",
+          "timestamp": "279692",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2338356678",
+          "timestamp": "281194",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3416496701",
+          "timestamp": "283830",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "223513976",
+          "timestamp": "284831",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1615204259",
+          "timestamp": "285832",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "836836080",
+          "timestamp": "287200",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "995793244",
+          "timestamp": "288334",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4015227662",
+          "timestamp": "290003",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3071791458",
+          "timestamp": "291705",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "564403098",
+          "timestamp": "293506",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "903446837",
+          "timestamp": "295308",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2813211192",
+          "timestamp": "297210",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "569945475",
+          "timestamp": "299379",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "416272700",
+          "timestamp": "302182",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2712545803",
+          "timestamp": "303683",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2176496042",
+          "timestamp": "304751",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3785395953",
+          "timestamp": "306086",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2565584409",
+          "timestamp": "307487",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2620324090",
+          "timestamp": "308488",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1402852063",
+          "timestamp": "310190",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "939397878",
+          "timestamp": "311858",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "652592703",
+          "timestamp": "312993",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "187202113",
+          "timestamp": "314394",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2042308884",
+          "timestamp": "317197",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1466507330",
+          "timestamp": "319232",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "605174423",
+          "timestamp": "320533",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1124887724",
+          "timestamp": "321801",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2721678256",
+          "timestamp": "324237",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1432459538",
+          "timestamp": "325906",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2872033939",
+          "timestamp": "326973",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2744986164",
+          "timestamp": "328074",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3347344320",
+          "timestamp": "329175",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2305679163",
+          "timestamp": "330510",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1993732286",
+          "timestamp": "331778",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2881107720",
+          "timestamp": "333013",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "88321361",
+          "timestamp": "337817",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "473261044",
+          "timestamp": "339920",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "639615229",
+          "timestamp": "341454",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3485415571",
+          "timestamp": "344090",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1923467568",
+          "timestamp": "345425",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3494767955",
+          "timestamp": "347527",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2801603287",
+          "timestamp": "348862",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "732259522",
+          "timestamp": "350463",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3480832808",
+          "timestamp": "352565",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1935144544",
+          "timestamp": "354734",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3884044907",
+          "timestamp": "357304",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2509172886",
+          "timestamp": "360774",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1695233455",
+          "timestamp": "363476",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2145653231",
+          "timestamp": "364811",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "650733808",
+          "timestamp": "366479",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2770978910",
+          "timestamp": "367914",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1234560059",
+          "timestamp": "369649",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1232367247",
+          "timestamp": "372185",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3686613473",
+          "timestamp": "375555",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "223836811",
+          "timestamp": "378258",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4257702629",
+          "timestamp": "380226",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2687526306",
+          "timestamp": "381394",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1690914110",
+          "timestamp": "383096",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1474385760",
+          "timestamp": "385799",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "943955145",
+          "timestamp": "388001",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3926072367",
+          "timestamp": "389502",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2296727328",
+          "timestamp": "393306",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3180030466",
+          "timestamp": "396276",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1093457318",
+          "timestamp": "397477",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1566465753",
+          "timestamp": "398778",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3643263793",
+          "timestamp": "400580",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2668799824",
+          "timestamp": "402415",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3087182578",
+          "timestamp": "404851",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3087182578",
+          "timestamp": "406553",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3087182578",
+          "timestamp": "408955",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1623371673",
+          "timestamp": "414627",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "377842599",
+          "timestamp": "414627",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3306342442",
+          "timestamp": "416496",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1106719052",
+          "timestamp": "418498",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1565823231",
+          "timestamp": "422102",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3701108080",
+          "timestamp": "424337",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2063999107",
+          "timestamp": "425672",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2671837798",
+          "timestamp": "426706",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3012625634",
+          "timestamp": "427841",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1611180582",
+          "timestamp": "429876",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3232704",
+          "timestamp": "433513",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3750268692",
+          "timestamp": "434214",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1307744786",
+          "timestamp": "435348",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1293607489",
+          "timestamp": "436416",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4121371050",
+          "timestamp": "438184",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1949568705",
+          "timestamp": "439652",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1227212223",
+          "timestamp": "458872",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3737726920",
+          "timestamp": "459906",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "669971847",
+          "timestamp": "460106",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2138229114",
+          "timestamp": "462008",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "669971847",
+          "timestamp": "463943",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "76713408",
+          "timestamp": "465779",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "136430478",
+          "timestamp": "467580",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2389907484",
+          "timestamp": "470116",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "708136515",
+          "timestamp": "477223",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3558998622",
+          "timestamp": "477223",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "76291456",
+          "timestamp": "481461",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3258520222",
+          "timestamp": "483296",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4143347751",
+          "timestamp": "488968",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1970984572",
+          "timestamp": "488968",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4019464410",
+          "timestamp": "490570",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "730917842",
+          "timestamp": "492005",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3806223490",
+          "timestamp": "493273",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "47104",
+          "timestamp": "494941",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2255960215",
+          "timestamp": "495842",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "47104",
+          "timestamp": "496776",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "775268402",
+          "timestamp": "497877",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3083832381",
+          "timestamp": "499879",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2403437832",
+          "timestamp": "503383",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3360518493",
+          "timestamp": "503383",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3536750869",
+          "timestamp": "504584",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3965205092",
+          "timestamp": "505652",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "103317734",
+          "timestamp": "506586",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3586137476",
+          "timestamp": "507420",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2703392211",
+          "timestamp": "508588",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2676460310",
+          "timestamp": "510123",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3018027413",
+          "timestamp": "511191",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "60149295",
+          "timestamp": "512425",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2578673363",
+          "timestamp": "514094",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1840763666",
+          "timestamp": "514994",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1761889774",
+          "timestamp": "516162",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1472",
+          "timestamp": "518731",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3112793877",
+          "timestamp": "518765",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "82616242",
+          "timestamp": "522635",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1645860934",
+          "timestamp": "524838",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2977811325",
+          "timestamp": "526940",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "675007315",
+          "timestamp": "528641",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3511639150",
+          "timestamp": "531277",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4097956397",
+          "timestamp": "533279",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2465590675",
+          "timestamp": "535148",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "47104",
+          "timestamp": "544190",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "247958935",
+          "timestamp": "546059",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "406924429",
+          "timestamp": "548261",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "125805890",
+          "timestamp": "550130",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "559055658",
+          "timestamp": "550130",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "43273636",
+          "timestamp": "551598",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3154773439",
+          "timestamp": "553700",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3799251969",
+          "timestamp": "556269",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2602947819",
+          "timestamp": "557570",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3649498508",
+          "timestamp": "558338",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1536136999",
+          "timestamp": "559472",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "373472551",
+          "timestamp": "560406",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1372506383",
+          "timestamp": "561274",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "736076562",
+          "timestamp": "610490",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4040386067",
+          "timestamp": "613826",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2080624229",
+          "timestamp": "616329",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4095899732",
+          "timestamp": "618064",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3814628701",
+          "timestamp": "619332",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2602434295",
+          "timestamp": "621100",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1192945896",
+          "timestamp": "622769",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2092881680",
+          "timestamp": "626172",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1903365932",
+          "timestamp": "628308",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3207199797",
+          "timestamp": "629742",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4102793894",
+          "timestamp": "631244",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1235579100",
+          "timestamp": "632445",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "413360640",
+          "timestamp": "634347",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3653883883",
+          "timestamp": "635715",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2835364478",
+          "timestamp": "637984",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "702105252",
+          "timestamp": "639686",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2792907508",
+          "timestamp": "641120",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1795607344",
+          "timestamp": "642956",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1938069998",
+          "timestamp": "644157",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2443402652",
+          "timestamp": "645258",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2871897461",
+          "timestamp": "646926",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "964082398",
+          "timestamp": "649796",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3566910493",
+          "timestamp": "652098",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1337861744",
+          "timestamp": "655335",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4033915666",
+          "timestamp": "657170",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "718484175",
+          "timestamp": "659839",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3212877486",
+          "timestamp": "661841",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1447869838",
+          "timestamp": "663810",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "451057407",
+          "timestamp": "665245",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "611533470",
+          "timestamp": "668815",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2587665909",
+          "timestamp": "672151",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3382610626",
+          "timestamp": "675355",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "347033950",
+          "timestamp": "678091",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1420409147",
+          "timestamp": "679659",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "920276687",
+          "timestamp": "681995",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2336815358",
+          "timestamp": "683663",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4260290750",
+          "timestamp": "685298",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "55539430",
+          "timestamp": "687400",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3629227523",
+          "timestamp": "693172",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2004855943",
+          "timestamp": "695008",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1079727454",
+          "timestamp": "698344",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2824343745",
+          "timestamp": "700647",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3337684940",
+          "timestamp": "703149",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3341311143",
+          "timestamp": "704784",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "464303589",
+          "timestamp": "708755",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1615774696",
+          "timestamp": "710957",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "502556462",
+          "timestamp": "713660",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2895275171",
+          "timestamp": "715695",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3217368720",
+          "timestamp": "717664",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3704400957",
+          "timestamp": "719032",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3318544871",
+          "timestamp": "721034",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1060193131",
+          "timestamp": "722869",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1719345178",
+          "timestamp": "725772",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2652172257",
+          "timestamp": "728007",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2259623856",
+          "timestamp": "729742",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2152171567",
+          "timestamp": "732211",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3584475296",
+          "timestamp": "735381",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1492283383",
+          "timestamp": "736349",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "929444387",
+          "timestamp": "738951",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "961943219",
+          "timestamp": "740219",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4175374925",
+          "timestamp": "743256",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3393472268",
+          "timestamp": "745358",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3220355455",
+          "timestamp": "748328",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1920210191",
+          "timestamp": "750797",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1753129862",
+          "timestamp": "751898",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3531182677",
+          "timestamp": "753066",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1328828215",
+          "timestamp": "754200",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2741538566",
+          "timestamp": "755401",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2475031613",
+          "timestamp": "758905",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2430080393",
+          "timestamp": "760173",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3515503586",
+          "timestamp": "761908",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "55539430",
+          "timestamp": "763443",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2139028512",
+          "timestamp": "768881",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "829890740",
+          "timestamp": "773186",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "229064231",
+          "timestamp": "774887",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3692573393",
+          "timestamp": "776456",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1784723765",
+          "timestamp": "777924",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "229064231",
+          "timestamp": "780393",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3029273210",
+          "timestamp": "781861",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "135524334",
+          "timestamp": "783496",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "59267989",
+          "timestamp": "785832",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3275710827",
+          "timestamp": "789502",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "623637499",
+          "timestamp": "792505",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3233721893",
+          "timestamp": "794540",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3184932956",
+          "timestamp": "797143",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3552313471",
+          "timestamp": "799278",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3853676870",
+          "timestamp": "801447",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4039359052",
+          "timestamp": "803483",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3176308324",
+          "timestamp": "805218",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1774537493",
+          "timestamp": "807420",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3033293859",
+          "timestamp": "810356",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1358095965",
+          "timestamp": "811524",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3862759889",
+          "timestamp": "813059",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1631985143",
+          "timestamp": "815328",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "499129873",
+          "timestamp": "817029",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3462285477",
+          "timestamp": "819599",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3976522300",
+          "timestamp": "821567",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2439666176",
+          "timestamp": "825037",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1132855323",
+          "timestamp": "826506",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3856916842",
+          "timestamp": "830877",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1867787486",
+          "timestamp": "832145",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4114416420",
+          "timestamp": "833813",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3722683606",
+          "timestamp": "836149",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "756824208",
+          "timestamp": "838351",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2305450646",
+          "timestamp": "845091",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3288722138",
+          "timestamp": "850496",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1321491561",
+          "timestamp": "851831",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2330633189",
+          "timestamp": "853332",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2307873780",
+          "timestamp": "855234",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1599049126",
+          "timestamp": "856869",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4074434758",
+          "timestamp": "858604",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1591175662",
+          "timestamp": "859839",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "316514496",
+          "timestamp": "864110",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4236066824",
+          "timestamp": "866879",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2834729938",
+          "timestamp": "869182",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "485279542",
+          "timestamp": "870917",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2917434377",
+          "timestamp": "873152",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2422265341",
+          "timestamp": "875888",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2635077133",
+          "timestamp": "880493",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1014592509",
+          "timestamp": "883229",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1110656692",
+          "timestamp": "885198",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3058177140",
+          "timestamp": "887200",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4010487117",
+          "timestamp": "888768",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1354134675",
+          "timestamp": "890336",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4212333491",
+          "timestamp": "892071",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "269703155",
+          "timestamp": "894807",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1003617680",
+          "timestamp": "896609",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3458641114",
+          "timestamp": "898678",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2648544623",
+          "timestamp": "900346",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2860082585",
+          "timestamp": "901714",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2242753192",
+          "timestamp": "904083",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2051907638",
+          "timestamp": "906219",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1995658946",
+          "timestamp": "909222",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3203619281",
+          "timestamp": "910823",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2936217466",
+          "timestamp": "911824",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1100324876",
+          "timestamp": "913393",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "927494941",
+          "timestamp": "915695",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1094777779",
+          "timestamp": "917230",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3560126852",
+          "timestamp": "919566",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4293936228",
+          "timestamp": "921234",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1732978318",
+          "timestamp": "923336",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3386937088",
+          "timestamp": "925104",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "753182710",
+          "timestamp": "927040",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "68377163",
+          "timestamp": "930743",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4207253613",
+          "timestamp": "933780",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1877674188",
+          "timestamp": "934814",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "748820609",
+          "timestamp": "936649",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4270223135",
+          "timestamp": "937917",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3129577478",
+          "timestamp": "939252",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1014066881",
+          "timestamp": "940620",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2243587476",
+          "timestamp": "943890",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1800223395",
+          "timestamp": "945959",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "758171137",
+          "timestamp": "947293",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3493945858",
+          "timestamp": "949996",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4069393113",
+          "timestamp": "951764",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "678364853",
+          "timestamp": "953666",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1742987982",
+          "timestamp": "956569",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "88501065",
+          "timestamp": "958104",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1407307083",
+          "timestamp": "962508",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3370820966",
+          "timestamp": "963610",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2860374486",
+          "timestamp": "965244",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2752676267",
+          "timestamp": "966746",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "67748365",
+          "timestamp": "1000380",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1760686484",
+          "timestamp": "1002148",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2795636733",
+          "timestamp": "1002181",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1318844821",
+          "timestamp": "1003516",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3179087559",
+          "timestamp": "1005118",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1504969699",
+          "timestamp": "1007520",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3364778143",
+          "timestamp": "1008688",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1760692640",
+          "timestamp": "1010323",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "287483599",
+          "timestamp": "1011958",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3388821761",
+          "timestamp": "1015428",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1614474588",
+          "timestamp": "1017296",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3487081663",
+          "timestamp": "1017296",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3323590138",
+          "timestamp": "1019232",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1657103497",
+          "timestamp": "1021534",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "856033744",
+          "timestamp": "1022735",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1977564335",
+          "timestamp": "1025071",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "838614206",
+          "timestamp": "1026806",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "753664",
+          "timestamp": "1030043",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3691586214",
+          "timestamp": "1030543",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3646865391",
+          "timestamp": "1030877",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3758096386",
+          "timestamp": "1033446",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1574363536",
+          "timestamp": "1033479",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "858715598",
+          "timestamp": "1034347",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3414773616",
+          "timestamp": "1035815",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "998607430",
+          "timestamp": "1037050",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2259909053",
+          "timestamp": "1040086",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2620473880",
+          "timestamp": "1041421",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "655869343",
+          "timestamp": "1042555",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3245037349",
+          "timestamp": "1047894",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3353164426",
+          "timestamp": "1047894",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "252693576",
+          "timestamp": "1049962",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3353164426",
+          "timestamp": "1052031",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3065178715",
+          "timestamp": "1054267",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3353164426",
+          "timestamp": "1056169",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3065178715",
+          "timestamp": "1058571",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2294087328",
+          "timestamp": "1060940",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "801004545",
+          "timestamp": "1062108",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3353164426",
+          "timestamp": "1063843",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1563563889",
+          "timestamp": "1065912",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3353164426",
+          "timestamp": "1068014",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1563563889",
+          "timestamp": "1070183",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "47104",
+          "timestamp": "1072552",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1381822927",
+          "timestamp": "1097810",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2081236382",
+          "timestamp": "1101814",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4091059792",
+          "timestamp": "1106819",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3818579401",
+          "timestamp": "1108821",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3778933447",
+          "timestamp": "1113826",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3730618971",
+          "timestamp": "1115161",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3505787887",
+          "timestamp": "1179492",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1308043876",
+          "timestamp": "1180860",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "748789057",
+          "timestamp": "1186899",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3876851184",
+          "timestamp": "1189068",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3142188422",
+          "timestamp": "1190269",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2237965896",
+          "timestamp": "1195775",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3588228357",
+          "timestamp": "1200413",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2805570048",
+          "timestamp": "1201714",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2548070305",
+          "timestamp": "1202782",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1204661024",
+          "timestamp": "1204383",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2142647834",
+          "timestamp": "1206319",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3435314129",
+          "timestamp": "1209622",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1217077820",
+          "timestamp": "1211390",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "382606852",
+          "timestamp": "1212859",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2312049060",
+          "timestamp": "1214160",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "413786112",
+          "timestamp": "1218564",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "691039041",
+          "timestamp": "1222501",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1370005683",
+          "timestamp": "1224570",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2108751213",
+          "timestamp": "1226873",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3784618301",
+          "timestamp": "1229041",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2935182229",
+          "timestamp": "1231244",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3607237123",
+          "timestamp": "1233179",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "826269188",
+          "timestamp": "1235214",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "53940112",
+          "timestamp": "1237016",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3488702620",
+          "timestamp": "1238351",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "330917885",
+          "timestamp": "1243422",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4214248610",
+          "timestamp": "1246592",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3936270212",
+          "timestamp": "1249929",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1956879063",
+          "timestamp": "1252265",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2185312406",
+          "timestamp": "1255201",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "530482174",
+          "timestamp": "1256869",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "927328358",
+          "timestamp": "1258271",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2944159488",
+          "timestamp": "1260506",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1653098829",
+          "timestamp": "1264410",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2753812361",
+          "timestamp": "1268214",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2440932604",
+          "timestamp": "1271550",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "996766305",
+          "timestamp": "1273552",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "732756747",
+          "timestamp": "1275554",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2874956380",
+          "timestamp": "1278224",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1407301156",
+          "timestamp": "1280893",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4177498600",
+          "timestamp": "1283562",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3368966207",
+          "timestamp": "1284897",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1967002671",
+          "timestamp": "1287700",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1808117391",
+          "timestamp": "1289669",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1031243988",
+          "timestamp": "1292438",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2901682998",
+          "timestamp": "1294540",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3273151708",
+          "timestamp": "1296876",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2044167107",
+          "timestamp": "1298878",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2827442937",
+          "timestamp": "1301113",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2489047414",
+          "timestamp": "1303349",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "595960576",
+          "timestamp": "1306519",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3779265154",
+          "timestamp": "1308254",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3198000285",
+          "timestamp": "1310056",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2502581075",
+          "timestamp": "1312024",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3496571486",
+          "timestamp": "1314894",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "425610879",
+          "timestamp": "1318230",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "747216345",
+          "timestamp": "1321767",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2829865921",
+          "timestamp": "1325404",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1441433584",
+          "timestamp": "1328908",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1487798695",
+          "timestamp": "1335614",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1962646755",
+          "timestamp": "1338417",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2068657711",
+          "timestamp": "1341354",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2219120380",
+          "timestamp": "1344857",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "860787782",
+          "timestamp": "1346592",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2363559446",
+          "timestamp": "1349061",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2155653226",
+          "timestamp": "1351897",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "292753912",
+          "timestamp": "1354900",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3227767326",
+          "timestamp": "1356869",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "309389312",
+          "timestamp": "1363976",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1280505252",
+          "timestamp": "1365578",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "630477957",
+          "timestamp": "1367580",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1807019175",
+          "timestamp": "1369715",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "730945283",
+          "timestamp": "1372485",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "876444112",
+          "timestamp": "1373719",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3656157660",
+          "timestamp": "1375421",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1134010270",
+          "timestamp": "1377390",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1527145812",
+          "timestamp": "1379892",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1538348189",
+          "timestamp": "1382561",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2949720927",
+          "timestamp": "1384964",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2048697131",
+          "timestamp": "1386732",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2396687781",
+          "timestamp": "1388467",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2882328512",
+          "timestamp": "1390669",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1726159268",
+          "timestamp": "1393072",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "424677356",
+          "timestamp": "1394907",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3778796828",
+          "timestamp": "1397576",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1150669706",
+          "timestamp": "1399011",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1137650992",
+          "timestamp": "1400746",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1362004159",
+          "timestamp": "1402481",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "491088207",
+          "timestamp": "1405885",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2622042855",
+          "timestamp": "1407486",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2684931471",
+          "timestamp": "1411757",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1746447649",
+          "timestamp": "1416095",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1717935562",
+          "timestamp": "1419598",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1857434595",
+          "timestamp": "1420833",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "163595521",
+          "timestamp": "1422268",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2873495330",
+          "timestamp": "1425871",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3360689974",
+          "timestamp": "1427173",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "836836080",
+          "timestamp": "1431577",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1873518889",
+          "timestamp": "1433879",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "361822466",
+          "timestamp": "1436415",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2644165651",
+          "timestamp": "1438284",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1098725654",
+          "timestamp": "1440386",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "18515680",
+          "timestamp": "1442588",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3399921077",
+          "timestamp": "1445024",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "312906383",
+          "timestamp": "1446792",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2217532957",
+          "timestamp": "1450162",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "760117457",
+          "timestamp": "1452098",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2136705383",
+          "timestamp": "1453766",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1255209344",
+          "timestamp": "1455634",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4157034938",
+          "timestamp": "1457203",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1488597595",
+          "timestamp": "1458237",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3467885981",
+          "timestamp": "1461974",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "907748783",
+          "timestamp": "1464410",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3306646188",
+          "timestamp": "1467313",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "348274178",
+          "timestamp": "1470983",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3761805414",
+          "timestamp": "1473552",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1328782740",
+          "timestamp": "1475054",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2310808870",
+          "timestamp": "1478357",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3640253063",
+          "timestamp": "1480993",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1675627654",
+          "timestamp": "1482394",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1410850963",
+          "timestamp": "1484230",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3425479107",
+          "timestamp": "1486198",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3509795985",
+          "timestamp": "1488704",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2079694276",
+          "timestamp": "1490286",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "279023014",
+          "timestamp": "1494590",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "776772147",
+          "timestamp": "1496759",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2737970596",
+          "timestamp": "1498127",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1951210196",
+          "timestamp": "1500963",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "182266772",
+          "timestamp": "1502198",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "206194962",
+          "timestamp": "1504467",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3936950125",
+          "timestamp": "1506969",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4212969816",
+          "timestamp": "1509405",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1528268296",
+          "timestamp": "1511874",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3549618062",
+          "timestamp": "1513509",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1655522081",
+          "timestamp": "1514910",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1477764909",
+          "timestamp": "1516779",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1381527437",
+          "timestamp": "1520783",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3150569508",
+          "timestamp": "1523886",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "388608",
+          "timestamp": "1525488",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3734229680",
+          "timestamp": "1530860",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2819832353",
+          "timestamp": "1532828",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1527770951",
+          "timestamp": "1535464",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1872277595",
+          "timestamp": "1537400",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3524255737",
+          "timestamp": "1541270",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3029451980",
+          "timestamp": "1542471",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1591175662",
+          "timestamp": "1545541",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1548450452",
+          "timestamp": "1547243",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3172990535",
+          "timestamp": "1550112",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2223219260",
+          "timestamp": "1552081",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1884909155",
+          "timestamp": "1553282",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3636031055",
+          "timestamp": "1555251",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "462674606",
+          "timestamp": "1558487",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3013999869",
+          "timestamp": "1559689",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3470653770",
+          "timestamp": "1561157",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2249571958",
+          "timestamp": "1564026",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2448163926",
+          "timestamp": "1566962",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2877441246",
+          "timestamp": "1570132",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "86080545",
+          "timestamp": "1571500",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2147177172",
+          "timestamp": "1573769",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1504086112",
+          "timestamp": "1577039",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2274327242",
+          "timestamp": "1578774",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "222400402",
+          "timestamp": "1581444",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2441603149",
+          "timestamp": "1585314",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "940720991",
+          "timestamp": "1588451",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3174650981",
+          "timestamp": "1591854",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2026431475",
+          "timestamp": "1595324",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3888371817",
+          "timestamp": "1598494",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3600462459",
+          "timestamp": "1599628",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4112742243",
+          "timestamp": "1601197",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3150569508",
+          "timestamp": "1602198",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1028185559",
+          "timestamp": "1609038",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3337074929",
+          "timestamp": "1610506",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1959243892",
+          "timestamp": "1615311",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "868103536",
+          "timestamp": "1616512",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4243186663",
+          "timestamp": "1620116",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "392521504",
+          "timestamp": "1621183",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3931990628",
+          "timestamp": "1622385",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1158138834",
+          "timestamp": "1623552",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "948410878",
+          "timestamp": "1625588",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1705352130",
+          "timestamp": "1627556",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2524726477",
+          "timestamp": "1629792",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1647803",
+          "timestamp": "1631060",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1759610656",
+          "timestamp": "1633496",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4215206480",
+          "timestamp": "1634630",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1792156899",
+          "timestamp": "1635698",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "695496660",
+          "timestamp": "1637066",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "759155798",
+          "timestamp": "1640536",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1178710321",
+          "timestamp": "1642772",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "19038720",
+          "timestamp": "1644840",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4148689691",
+          "timestamp": "1645941",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1964182925",
+          "timestamp": "1647576",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3250367752",
+          "timestamp": "1648844",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3502977989",
+          "timestamp": "1652782",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "845850392",
+          "timestamp": "1654250",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2429974364",
+          "timestamp": "1655918",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1088519886",
+          "timestamp": "1657186",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2642568900",
+          "timestamp": "1658454",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2046907133",
+          "timestamp": "1659588",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "333773132",
+          "timestamp": "1661424",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2861549524",
+          "timestamp": "1664160",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3216139422",
+          "timestamp": "1665528",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1401361370",
+          "timestamp": "1666562",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2482258748",
+          "timestamp": "1667897",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2738255891",
+          "timestamp": "1669799",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1216910533",
+          "timestamp": "1673102",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2789496461",
+          "timestamp": "1674870",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1554432",
+          "timestamp": "1679742",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1806731396",
+          "timestamp": "1679742",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3126536390",
+          "timestamp": "1683446",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2168997353",
+          "timestamp": "1686315",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3605500681",
+          "timestamp": "1688551",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3066717725",
+          "timestamp": "1690686",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2541187542",
+          "timestamp": "1692288",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2092508718",
+          "timestamp": "1694690",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "918890905",
+          "timestamp": "1696492",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1554432",
+          "timestamp": "1699328",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "928783569",
+          "timestamp": "1702932",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3325773825",
+          "timestamp": "1704767",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3465398886",
+          "timestamp": "1723953",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1313898458",
+          "timestamp": "1727456",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "142955168",
+          "timestamp": "1727456",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3940573020",
+          "timestamp": "1731360",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2082596675",
+          "timestamp": "1739668",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1633933585",
+          "timestamp": "1742004",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2499470221",
+          "timestamp": "1742705",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1329150283",
+          "timestamp": "1744673",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1931938515",
+          "timestamp": "1745708",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "263107580",
+          "timestamp": "1747109",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "34778711",
+          "timestamp": "1748811",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1555789476",
+          "timestamp": "1750846",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3630415331",
+          "timestamp": "1753682",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2893063931",
+          "timestamp": "1754250",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3844214011",
+          "timestamp": "1755084",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2979781378",
+          "timestamp": "1755117",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1461746460",
+          "timestamp": "1756519",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4147072763",
+          "timestamp": "1758621",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3533092837",
+          "timestamp": "1761223",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "41877540",
+          "timestamp": "1762458",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3426958735",
+          "timestamp": "1764226",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2665791914",
+          "timestamp": "1765227",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3525145459",
+          "timestamp": "1767596",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2201693529",
+          "timestamp": "1768831",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "500067099",
+          "timestamp": "1771634",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2782432918",
+          "timestamp": "1772701",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "611436878",
+          "timestamp": "1775671",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2490483427",
+          "timestamp": "1777640",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3474723928",
+          "timestamp": "1779675",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3950298403",
+          "timestamp": "1780943",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4097956397",
+          "timestamp": "1784113",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2465590675",
+          "timestamp": "1785981",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "47104",
+          "timestamp": "1795024",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "247958935",
+          "timestamp": "1796892",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "49741824",
+          "timestamp": "1803132",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "49741824",
+          "timestamp": "1803132",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3040506488",
+          "timestamp": "1807803",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2539239033",
+          "timestamp": "1810639",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1554432",
+          "timestamp": "1811974",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3186721754",
+          "timestamp": "1816312",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3323195986",
+          "timestamp": "1816312",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "194917567",
+          "timestamp": "1818314",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2914991082",
+          "timestamp": "1820316",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "616903592",
+          "timestamp": "1822685",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1869060741",
+          "timestamp": "1823886",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2115484115",
+          "timestamp": "1825454",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "616259384",
+          "timestamp": "1826989",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "51885056",
+          "timestamp": "1904667",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "626660498",
+          "timestamp": "1905234",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1183690740",
+          "timestamp": "1907536",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2116721427",
+          "timestamp": "1907636",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4055122847",
+          "timestamp": "1908637",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3983172980",
+          "timestamp": "1912241",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3308906887",
+          "timestamp": "1913709",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3347344320",
+          "timestamp": "1915477",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3422974382",
+          "timestamp": "1916478",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1175291660",
+          "timestamp": "1917713",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1116711280",
+          "timestamp": "1919581",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1007657417",
+          "timestamp": "1922518",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "574480638",
+          "timestamp": "1926021",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1736767739",
+          "timestamp": "1928757",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3789233000",
+          "timestamp": "1930926",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2060317143",
+          "timestamp": "1933228",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2225478848",
+          "timestamp": "1936098",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "918446263",
+          "timestamp": "1937633",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1365622310",
+          "timestamp": "1939902",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1984894748",
+          "timestamp": "1941103",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2917903271",
+          "timestamp": "1942404",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "414202786",
+          "timestamp": "1946208",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3592538424",
+          "timestamp": "1947576",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3447777338",
+          "timestamp": "1948577",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3067847161",
+          "timestamp": "1963592",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3156765530",
+          "timestamp": "1965761",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4125833909",
+          "timestamp": "1968897",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2775085042",
+          "timestamp": "1970165",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "658291924",
+          "timestamp": "1972534",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1276358807",
+          "timestamp": "1974937",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2780746244",
+          "timestamp": "1976939",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3499650221",
+          "timestamp": "1978373",
+          "type": "clipSyncMark"
+        }
+      ],
+      "type": "clipMetadata"
+    },
+    {
+      "clipMetadataId": "tivo:cm.794817",
+      "contentId": "tivo:ct.475307640",
+      "segment": [
+        {
+          "description": "Segment 1",
+          "endOffset": "410483",
+          "startOffset": "0",
+          "type": "clipSegment"
+        },
+        {
+          "description": "Segment 2",
+          "endOffset": "983630",
+          "startOffset": "620373",
+          "type": "clipSegment"
+        },
+        {
+          "description": "Segment 3",
+          "endOffset": "1673153",
+          "startOffset": "1170917",
+          "type": "clipSegment"
+        },
+        {
+          "description": "Segment 4",
+          "endOffset": "1920000",
+          "startOffset": "1838010",
+          "type": "clipSegment"
+        }
+      ],
+      "segmentType": "adSkip",
+      "syncMark": [
+        {
+          "hash": "388608",
+          "timestamp": "1573",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2719257268",
+          "timestamp": "9381",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1554432",
+          "timestamp": "11816",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1702956605",
+          "timestamp": "13952",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2695872823",
+          "timestamp": "15954",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2293772452",
+          "timestamp": "17455",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1850035919",
+          "timestamp": "19824",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "219876750",
+          "timestamp": "21960",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1526551316",
+          "timestamp": "23495",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1013606056",
+          "timestamp": "25130",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1907278242",
+          "timestamp": "27132",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2400097920",
+          "timestamp": "40078",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3861913057",
+          "timestamp": "41479",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3797095500",
+          "timestamp": "43648",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2041954866",
+          "timestamp": "45317",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4010313036",
+          "timestamp": "47018",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2617503079",
+          "timestamp": "49754",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3265172533",
+          "timestamp": "51256",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3520107191",
+          "timestamp": "53225",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3777399703",
+          "timestamp": "54359",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "481377165",
+          "timestamp": "56394",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1920689187",
+          "timestamp": "57529",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "656544099",
+          "timestamp": "59531",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3424943960",
+          "timestamp": "62033",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4144686019",
+          "timestamp": "63368",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2801545770",
+          "timestamp": "65270",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4018318885",
+          "timestamp": "66338",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1494301684",
+          "timestamp": "67939",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3508851260",
+          "timestamp": "70775",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1291392202",
+          "timestamp": "73378",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3017823913",
+          "timestamp": "75747",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2389058338",
+          "timestamp": "77182",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1782646854",
+          "timestamp": "79184",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1665763951",
+          "timestamp": "80418",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2062908792",
+          "timestamp": "81853",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3807263902",
+          "timestamp": "83588",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1277736561",
+          "timestamp": "84923",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "878350241",
+          "timestamp": "86725",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2797676375",
+          "timestamp": "87859",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2006615399",
+          "timestamp": "89527",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1345121814",
+          "timestamp": "91563",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2218203318",
+          "timestamp": "93131",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2335551991",
+          "timestamp": "94432",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4123366183",
+          "timestamp": "96034",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2455331231",
+          "timestamp": "98236",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3395235496",
+          "timestamp": "101273",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1809556929",
+          "timestamp": "103808",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "423153140",
+          "timestamp": "106444",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4145715121",
+          "timestamp": "109514",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1023481383",
+          "timestamp": "112150",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "702620335",
+          "timestamp": "113218",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "76183552",
+          "timestamp": "115186",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2907522119",
+          "timestamp": "116254",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3164945976",
+          "timestamp": "118289",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1571612830",
+          "timestamp": "121760",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "388608",
+          "timestamp": "124296",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4281037943",
+          "timestamp": "134306",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3993957064",
+          "timestamp": "136107",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2502251276",
+          "timestamp": "138143",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3991687453",
+          "timestamp": "139411",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3736954798",
+          "timestamp": "141680",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "928686722",
+          "timestamp": "145350",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3776438771",
+          "timestamp": "146418",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "19045888",
+          "timestamp": "148720",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1920514093",
+          "timestamp": "150121",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1100612380",
+          "timestamp": "152023",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2111642732",
+          "timestamp": "153291",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1800577571",
+          "timestamp": "154359",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3864262975",
+          "timestamp": "155827",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1398744908",
+          "timestamp": "157262",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3840092827",
+          "timestamp": "158663",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3587478160",
+          "timestamp": "160965",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2695178809",
+          "timestamp": "163535",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "640412243",
+          "timestamp": "166638",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3938305186",
+          "timestamp": "167939",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2922087268",
+          "timestamp": "169207",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "464198311",
+          "timestamp": "170608",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "357497338",
+          "timestamp": "171609",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2905084525",
+          "timestamp": "172977",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3437955638",
+          "timestamp": "176314",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4143208376",
+          "timestamp": "179150",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3357735391",
+          "timestamp": "181820",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1007118735",
+          "timestamp": "184956",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1800329665",
+          "timestamp": "186524",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3891446929",
+          "timestamp": "188059",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "509226831",
+          "timestamp": "189728",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2000736594",
+          "timestamp": "193264",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "664224062",
+          "timestamp": "194566",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "361902800",
+          "timestamp": "196568",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3752390537",
+          "timestamp": "197902",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "68825959",
+          "timestamp": "198903",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3361142327",
+          "timestamp": "200071",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "380811611",
+          "timestamp": "201306",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1864508775",
+          "timestamp": "203575",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2851876682",
+          "timestamp": "205677",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2056407064",
+          "timestamp": "209080",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4062633514",
+          "timestamp": "211016",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2771941060",
+          "timestamp": "214583",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2305450646",
+          "timestamp": "215984",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3110151651",
+          "timestamp": "217085",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1442454447",
+          "timestamp": "218553",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3778335675",
+          "timestamp": "220022",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "631867997",
+          "timestamp": "222457",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "564111109",
+          "timestamp": "224092",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2764156915",
+          "timestamp": "225360",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3433593636",
+          "timestamp": "226395",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2957664906",
+          "timestamp": "230699",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3560158150",
+          "timestamp": "234836",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2841636360",
+          "timestamp": "237005",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4020568609",
+          "timestamp": "239007",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1814932062",
+          "timestamp": "240709",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3966769520",
+          "timestamp": "242844",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2535535793",
+          "timestamp": "244313",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4135805228",
+          "timestamp": "245414",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "745712250",
+          "timestamp": "247449",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1047435527",
+          "timestamp": "249217",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "28573019",
+          "timestamp": "251853",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4056632847",
+          "timestamp": "254056",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "565075126",
+          "timestamp": "257025",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1279026744",
+          "timestamp": "260395",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3955264264",
+          "timestamp": "262297",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3800308153",
+          "timestamp": "263799",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4148082918",
+          "timestamp": "265334",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3617902243",
+          "timestamp": "266435",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3438732499",
+          "timestamp": "267703",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3327629577",
+          "timestamp": "269004",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3158980057",
+          "timestamp": "270839",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2169361730",
+          "timestamp": "272140",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3111161429",
+          "timestamp": "276144",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1131457830",
+          "timestamp": "277479",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3738184513",
+          "timestamp": "279147",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2338356678",
+          "timestamp": "280649",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3416496701",
+          "timestamp": "283285",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "223513976",
+          "timestamp": "284286",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1615204259",
+          "timestamp": "285287",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "836836080",
+          "timestamp": "286655",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "995793244",
+          "timestamp": "287789",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4015227662",
+          "timestamp": "289458",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3071791458",
+          "timestamp": "291159",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "564403098",
+          "timestamp": "292961",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "903446837",
+          "timestamp": "294763",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2813211192",
+          "timestamp": "296665",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "569945475",
+          "timestamp": "298834",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "416272700",
+          "timestamp": "301636",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2712545803",
+          "timestamp": "303138",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2176496042",
+          "timestamp": "304206",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3785395953",
+          "timestamp": "305540",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2565584409",
+          "timestamp": "306942",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2620324090",
+          "timestamp": "307943",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1402852063",
+          "timestamp": "309644",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "939397878",
+          "timestamp": "311313",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "652592703",
+          "timestamp": "312447",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "187202113",
+          "timestamp": "313849",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2042308884",
+          "timestamp": "316651",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1466507330",
+          "timestamp": "318687",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "605174423",
+          "timestamp": "319988",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1124887724",
+          "timestamp": "321256",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2721678256",
+          "timestamp": "323692",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1432459538",
+          "timestamp": "325360",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2872033939",
+          "timestamp": "326428",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2744986164",
+          "timestamp": "327529",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3347344320",
+          "timestamp": "328630",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2305679163",
+          "timestamp": "329965",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1993732286",
+          "timestamp": "331233",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2881107720",
+          "timestamp": "332467",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "88321361",
+          "timestamp": "337272",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "473261044",
+          "timestamp": "339374",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "639615229",
+          "timestamp": "340909",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3485415571",
+          "timestamp": "343545",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1923467568",
+          "timestamp": "344880",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3494767955",
+          "timestamp": "346982",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2801603287",
+          "timestamp": "348316",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "732259522",
+          "timestamp": "349918",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3480832808",
+          "timestamp": "352020",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1935144544",
+          "timestamp": "354189",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3884044907",
+          "timestamp": "356758",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2509172886",
+          "timestamp": "360228",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1695233455",
+          "timestamp": "362931",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2145653231",
+          "timestamp": "364266",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "650733808",
+          "timestamp": "365934",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2770978910",
+          "timestamp": "367369",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1234560059",
+          "timestamp": "369104",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1232367247",
+          "timestamp": "371640",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3686613473",
+          "timestamp": "375010",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "223836811",
+          "timestamp": "377712",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4257702629",
+          "timestamp": "379681",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2687526306",
+          "timestamp": "380849",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1690914110",
+          "timestamp": "382551",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1474385760",
+          "timestamp": "385253",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "943955145",
+          "timestamp": "387456",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3926072367",
+          "timestamp": "388957",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2296727328",
+          "timestamp": "392761",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3180030466",
+          "timestamp": "395730",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1093457318",
+          "timestamp": "396932",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1566465753",
+          "timestamp": "398233",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3643263793",
+          "timestamp": "400035",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2668799824",
+          "timestamp": "401870",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3087182578",
+          "timestamp": "404306",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3087182578",
+          "timestamp": "406007",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3087182578",
+          "timestamp": "408410",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3522223501",
+          "timestamp": "411313",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1084873749",
+          "timestamp": "412614",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3189089283",
+          "timestamp": "412614",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "665858519",
+          "timestamp": "414149",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1562483642",
+          "timestamp": "416852",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1301693173",
+          "timestamp": "419855",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1973378054",
+          "timestamp": "425093",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "509759840",
+          "timestamp": "427496",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2415831137",
+          "timestamp": "430599",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "75133817",
+          "timestamp": "433835",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2057538362",
+          "timestamp": "437105",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2753017936",
+          "timestamp": "438206",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1756235976",
+          "timestamp": "441510",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2330334355",
+          "timestamp": "443245",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3447189800",
+          "timestamp": "443245",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1017741860",
+          "timestamp": "444946",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2542620286",
+          "timestamp": "447682",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3089012929",
+          "timestamp": "449217",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4010133036",
+          "timestamp": "450852",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "423902524",
+          "timestamp": "452320",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1850164371",
+          "timestamp": "457025",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2154404472",
+          "timestamp": "459194",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2583221162",
+          "timestamp": "459227",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "225523448",
+          "timestamp": "460896",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1357986165",
+          "timestamp": "463732",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1168017464",
+          "timestamp": "466535",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3511639150",
+          "timestamp": "468470",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4257643568",
+          "timestamp": "501269",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "866862018",
+          "timestamp": "502304",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4125189783",
+          "timestamp": "502304",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2411809313",
+          "timestamp": "503572",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "312693872",
+          "timestamp": "505006",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4134452704",
+          "timestamp": "506107",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2140180849",
+          "timestamp": "507275",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3408510488",
+          "timestamp": "509244",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2812774664",
+          "timestamp": "511379",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3732251149",
+          "timestamp": "512647",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3442344477",
+          "timestamp": "513915",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "973356349",
+          "timestamp": "515650",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1353177244",
+          "timestamp": "516918",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3119942776",
+          "timestamp": "519221",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2126476271",
+          "timestamp": "521356",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3108730425",
+          "timestamp": "522524",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2433995475",
+          "timestamp": "524226",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "854427215",
+          "timestamp": "526161",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2147079547",
+          "timestamp": "528964",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2999552127",
+          "timestamp": "531166",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4023807768",
+          "timestamp": "532634",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3279663336",
+          "timestamp": "534569",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "542386422",
+          "timestamp": "535971",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3532953035",
+          "timestamp": "537472",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2214259913",
+          "timestamp": "538440",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2054977736",
+          "timestamp": "539908",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2405997850",
+          "timestamp": "541243",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3344854804",
+          "timestamp": "542477",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2857864069",
+          "timestamp": "543278",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1994678514",
+          "timestamp": "544512",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1188030087",
+          "timestamp": "545847",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2270157474",
+          "timestamp": "547482",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3624732531",
+          "timestamp": "548717",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2442533190",
+          "timestamp": "549951",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3378999396",
+          "timestamp": "551219",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2444645053",
+          "timestamp": "553054",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3427509397",
+          "timestamp": "555023",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "999259273",
+          "timestamp": "555824",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3011655697",
+          "timestamp": "557392",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3046896764",
+          "timestamp": "558760",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "736076562",
+          "timestamp": "624693",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4040386067",
+          "timestamp": "628029",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2080624229",
+          "timestamp": "630532",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4095899732",
+          "timestamp": "632267",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3814628701",
+          "timestamp": "633535",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2602434295",
+          "timestamp": "635303",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1192945896",
+          "timestamp": "636971",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2092881680",
+          "timestamp": "640375",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1903365932",
+          "timestamp": "642510",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3207199797",
+          "timestamp": "643945",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4102793894",
+          "timestamp": "645447",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1235579100",
+          "timestamp": "646648",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "413360640",
+          "timestamp": "648550",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3653883883",
+          "timestamp": "649918",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2835364478",
+          "timestamp": "652187",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "702105252",
+          "timestamp": "653888",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2792907508",
+          "timestamp": "655323",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1795607344",
+          "timestamp": "657158",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1938069998",
+          "timestamp": "658360",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2443402652",
+          "timestamp": "659461",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2871897461",
+          "timestamp": "661129",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "964082398",
+          "timestamp": "663998",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3566910493",
+          "timestamp": "666301",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1337861744",
+          "timestamp": "669537",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4033915666",
+          "timestamp": "671373",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "718484175",
+          "timestamp": "674042",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3212877486",
+          "timestamp": "676044",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1447869838",
+          "timestamp": "678012",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "451057407",
+          "timestamp": "679447",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "611533470",
+          "timestamp": "683017",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2587665909",
+          "timestamp": "686354",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3382610626",
+          "timestamp": "689557",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "347033950",
+          "timestamp": "692293",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1420409147",
+          "timestamp": "693862",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "920276687",
+          "timestamp": "696197",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2336815358",
+          "timestamp": "697866",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4260290750",
+          "timestamp": "699501",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "55539430",
+          "timestamp": "701603",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3629227523",
+          "timestamp": "707375",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2004855943",
+          "timestamp": "709210",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1079727454",
+          "timestamp": "712547",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2824343745",
+          "timestamp": "714849",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3337684940",
+          "timestamp": "717352",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3341311143",
+          "timestamp": "718987",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "464303589",
+          "timestamp": "722957",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1615774696",
+          "timestamp": "725160",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "502556462",
+          "timestamp": "727862",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2895275171",
+          "timestamp": "729898",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3217368720",
+          "timestamp": "731866",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3704400957",
+          "timestamp": "733234",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3318544871",
+          "timestamp": "735236",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1060193131",
+          "timestamp": "737071",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1719345178",
+          "timestamp": "739974",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2652172257",
+          "timestamp": "742210",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2259623856",
+          "timestamp": "743945",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2152171567",
+          "timestamp": "746414",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3584475296",
+          "timestamp": "749584",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1492283383",
+          "timestamp": "750552",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "929444387",
+          "timestamp": "753154",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "961943219",
+          "timestamp": "754422",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4175374925",
+          "timestamp": "757459",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3393472268",
+          "timestamp": "759561",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3220355455",
+          "timestamp": "762530",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1920210191",
+          "timestamp": "764999",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1753129862",
+          "timestamp": "766100",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3531182677",
+          "timestamp": "767268",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1328828215",
+          "timestamp": "768403",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2741538566",
+          "timestamp": "769604",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2475031613",
+          "timestamp": "773107",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2430080393",
+          "timestamp": "774375",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3515503586",
+          "timestamp": "776110",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "55539430",
+          "timestamp": "777645",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2139028512",
+          "timestamp": "783084",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "829890740",
+          "timestamp": "787388",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "229064231",
+          "timestamp": "789090",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3692573393",
+          "timestamp": "790658",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1784723765",
+          "timestamp": "792126",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "229064231",
+          "timestamp": "794596",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3029273210",
+          "timestamp": "796064",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "135524334",
+          "timestamp": "797699",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "59267989",
+          "timestamp": "800034",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3275710827",
+          "timestamp": "803705",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "623637499",
+          "timestamp": "806708",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3233721893",
+          "timestamp": "808743",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3184932956",
+          "timestamp": "811346",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3552313471",
+          "timestamp": "813466",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3853676870",
+          "timestamp": "815613",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4039359052",
+          "timestamp": "817628",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3176308324",
+          "timestamp": "819346",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1774537493",
+          "timestamp": "821543",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3033293859",
+          "timestamp": "824479",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1358095965",
+          "timestamp": "825647",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3862759889",
+          "timestamp": "827182",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1631985143",
+          "timestamp": "829451",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "499129873",
+          "timestamp": "831153",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3462285477",
+          "timestamp": "833722",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3976522300",
+          "timestamp": "835691",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2439666176",
+          "timestamp": "839161",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1132855323",
+          "timestamp": "840629",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3856916842",
+          "timestamp": "845000",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1867787486",
+          "timestamp": "846268",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4114416420",
+          "timestamp": "847936",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3722683606",
+          "timestamp": "850272",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "756824208",
+          "timestamp": "852474",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2305450646",
+          "timestamp": "859214",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3288722138",
+          "timestamp": "864620",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1321491561",
+          "timestamp": "865954",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2330633189",
+          "timestamp": "867456",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2307873780",
+          "timestamp": "869358",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1599049126",
+          "timestamp": "870993",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4074434758",
+          "timestamp": "872728",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1591175662",
+          "timestamp": "873962",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "316514496",
+          "timestamp": "878233",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4236066824",
+          "timestamp": "881003",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2834729938",
+          "timestamp": "883305",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "485279542",
+          "timestamp": "885040",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2917434377",
+          "timestamp": "887276",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2422265341",
+          "timestamp": "890012",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2635077133",
+          "timestamp": "894616",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1014592509",
+          "timestamp": "897352",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1110656692",
+          "timestamp": "899321",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3058177140",
+          "timestamp": "901323",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4010487117",
+          "timestamp": "902891",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1354134675",
+          "timestamp": "904459",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4212333491",
+          "timestamp": "906194",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "269703155",
+          "timestamp": "908931",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1003617680",
+          "timestamp": "910732",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3458641114",
+          "timestamp": "912801",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2648544623",
+          "timestamp": "914469",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2860082585",
+          "timestamp": "915837",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2242753192",
+          "timestamp": "918206",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2051907638",
+          "timestamp": "920342",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1995658946",
+          "timestamp": "923345",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3203619281",
+          "timestamp": "924947",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2936217466",
+          "timestamp": "925948",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1124442124",
+          "timestamp": "927516",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "927494941",
+          "timestamp": "929818",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1094777779",
+          "timestamp": "931353",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3560126852",
+          "timestamp": "933689",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4293936228",
+          "timestamp": "935357",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1732978318",
+          "timestamp": "937459",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3386937088",
+          "timestamp": "939227",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "753182710",
+          "timestamp": "941163",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "68377163",
+          "timestamp": "944866",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4207253613",
+          "timestamp": "947903",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1877674188",
+          "timestamp": "948937",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "748820609",
+          "timestamp": "950772",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4270223135",
+          "timestamp": "952040",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3129577478",
+          "timestamp": "953375",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1014066881",
+          "timestamp": "954743",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2243587476",
+          "timestamp": "958013",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1800223395",
+          "timestamp": "960082",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "758171137",
+          "timestamp": "961416",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3493945858",
+          "timestamp": "964119",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4069393113",
+          "timestamp": "965887",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "678364853",
+          "timestamp": "967789",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1742987982",
+          "timestamp": "970692",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "88501065",
+          "timestamp": "972227",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1407307083",
+          "timestamp": "976631",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3370820966",
+          "timestamp": "977733",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2860374486",
+          "timestamp": "979368",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2752676267",
+          "timestamp": "980869",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1850164371",
+          "timestamp": "1020208",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2154404472",
+          "timestamp": "1022377",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2583221162",
+          "timestamp": "1022411",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "225523448",
+          "timestamp": "1024079",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1357986165",
+          "timestamp": "1026915",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1168017464",
+          "timestamp": "1029718",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3511639150",
+          "timestamp": "1031653",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1554432",
+          "timestamp": "1126748",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1704126845",
+          "timestamp": "1132053",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2746866017",
+          "timestamp": "1134656",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2521692502",
+          "timestamp": "1137392",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3505787887",
+          "timestamp": "1174930",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1308043876",
+          "timestamp": "1176298",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "748789057",
+          "timestamp": "1182337",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3876851184",
+          "timestamp": "1184506",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3142188422",
+          "timestamp": "1185707",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2237965896",
+          "timestamp": "1191213",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3588228357",
+          "timestamp": "1195850",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2805570048",
+          "timestamp": "1197152",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2548070305",
+          "timestamp": "1198220",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1204661024",
+          "timestamp": "1199821",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2142647834",
+          "timestamp": "1201756",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3435314129",
+          "timestamp": "1205060",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1217077820",
+          "timestamp": "1206828",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "382606852",
+          "timestamp": "1208296",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2312049060",
+          "timestamp": "1209598",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "413786112",
+          "timestamp": "1214002",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "691039041",
+          "timestamp": "1217939",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1370005683",
+          "timestamp": "1220008",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2108751213",
+          "timestamp": "1222310",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3784618301",
+          "timestamp": "1224479",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2935182229",
+          "timestamp": "1226681",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3607237123",
+          "timestamp": "1228617",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "826269188",
+          "timestamp": "1230652",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "53940112",
+          "timestamp": "1232454",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3488702620",
+          "timestamp": "1233788",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "330917885",
+          "timestamp": "1238860",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4214248610",
+          "timestamp": "1242030",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3936270212",
+          "timestamp": "1245367",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1956879063",
+          "timestamp": "1247702",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2185312406",
+          "timestamp": "1250639",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "530482174",
+          "timestamp": "1252307",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "927328358",
+          "timestamp": "1253708",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2944159488",
+          "timestamp": "1255944",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1653098829",
+          "timestamp": "1259848",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2753812361",
+          "timestamp": "1263652",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2440932604",
+          "timestamp": "1266988",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "996766305",
+          "timestamp": "1268990",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "732756747",
+          "timestamp": "1270992",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2874956380",
+          "timestamp": "1273662",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1407301156",
+          "timestamp": "1276331",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4177498600",
+          "timestamp": "1279000",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3368966207",
+          "timestamp": "1280335",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1967002671",
+          "timestamp": "1283138",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1808117391",
+          "timestamp": "1285106",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1031243988",
+          "timestamp": "1287876",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2901682998",
+          "timestamp": "1289978",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3273151708",
+          "timestamp": "1292314",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2044167107",
+          "timestamp": "1294316",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2827442937",
+          "timestamp": "1296551",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2489047414",
+          "timestamp": "1298787",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "595960576",
+          "timestamp": "1301956",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3779265154",
+          "timestamp": "1303692",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3198000285",
+          "timestamp": "1305493",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2502581075",
+          "timestamp": "1307462",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3496571486",
+          "timestamp": "1310332",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "425610879",
+          "timestamp": "1313668",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "747216345",
+          "timestamp": "1317205",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2829865921",
+          "timestamp": "1320842",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1441433584",
+          "timestamp": "1324346",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1487798695",
+          "timestamp": "1331052",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1962646755",
+          "timestamp": "1333855",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2068657711",
+          "timestamp": "1336791",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2219120380",
+          "timestamp": "1340295",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "860787782",
+          "timestamp": "1342030",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2363559446",
+          "timestamp": "1344499",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2155653226",
+          "timestamp": "1347335",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "292753912",
+          "timestamp": "1350338",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3227767326",
+          "timestamp": "1352307",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "309389312",
+          "timestamp": "1359414",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1280505252",
+          "timestamp": "1361015",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "630477957",
+          "timestamp": "1363017",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1807019175",
+          "timestamp": "1365153",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "730945283",
+          "timestamp": "1367922",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "876444112",
+          "timestamp": "1369157",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3656157660",
+          "timestamp": "1370859",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1134010270",
+          "timestamp": "1372827",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1527145812",
+          "timestamp": "1375330",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1538348189",
+          "timestamp": "1377999",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2949720927",
+          "timestamp": "1380402",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2048697131",
+          "timestamp": "1382170",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2396687781",
+          "timestamp": "1383905",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2882328512",
+          "timestamp": "1386107",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1726159268",
+          "timestamp": "1388510",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "424677356",
+          "timestamp": "1390345",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3778796828",
+          "timestamp": "1393014",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1150669706",
+          "timestamp": "1394449",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1137650992",
+          "timestamp": "1396184",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1362004159",
+          "timestamp": "1397919",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "491088207",
+          "timestamp": "1401322",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2622042855",
+          "timestamp": "1402924",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2684931471",
+          "timestamp": "1407195",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1746447649",
+          "timestamp": "1411533",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1717935562",
+          "timestamp": "1415067",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1857434595",
+          "timestamp": "1416314",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "163595521",
+          "timestamp": "1417764",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2873495330",
+          "timestamp": "1421403",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3360689974",
+          "timestamp": "1422718",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "836836080",
+          "timestamp": "1427166",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1873518889",
+          "timestamp": "1429491",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "361822466",
+          "timestamp": "1432053",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2644165651",
+          "timestamp": "1433940",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1098725654",
+          "timestamp": "1436063",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "18515680",
+          "timestamp": "1438287",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3399921077",
+          "timestamp": "1440747",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "312906383",
+          "timestamp": "1442533",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2217532957",
+          "timestamp": "1445937",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "760117457",
+          "timestamp": "1447892",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2136705383",
+          "timestamp": "1449577",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1255209344",
+          "timestamp": "1451464",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4157034938",
+          "timestamp": "1453048",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1488597595",
+          "timestamp": "1454093",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3467885981",
+          "timestamp": "1457867",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "907748783",
+          "timestamp": "1460327",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3306646188",
+          "timestamp": "1463259",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "348274178",
+          "timestamp": "1466966",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3761805414",
+          "timestamp": "1469561",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1328782740",
+          "timestamp": "1471078",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2310808870",
+          "timestamp": "1474412",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3640253063",
+          "timestamp": "1477048",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1675627654",
+          "timestamp": "1478449",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1410850963",
+          "timestamp": "1480284",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3425479107",
+          "timestamp": "1482253",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3509795985",
+          "timestamp": "1484755",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2079694276",
+          "timestamp": "1486324",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "279023014",
+          "timestamp": "1490628",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "776772147",
+          "timestamp": "1492797",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2737970596",
+          "timestamp": "1494165",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1951210196",
+          "timestamp": "1497001",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "182266772",
+          "timestamp": "1498235",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "206194962",
+          "timestamp": "1500504",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3936950125",
+          "timestamp": "1503007",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4212969816",
+          "timestamp": "1505443",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1528268296",
+          "timestamp": "1507912",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3549618062",
+          "timestamp": "1509547",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1655522081",
+          "timestamp": "1510948",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1477764909",
+          "timestamp": "1512817",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1381527437",
+          "timestamp": "1516821",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3150569508",
+          "timestamp": "1519924",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "388608",
+          "timestamp": "1521525",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3734229680",
+          "timestamp": "1526897",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2819832353",
+          "timestamp": "1528866",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1527770951",
+          "timestamp": "1531502",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1872277595",
+          "timestamp": "1533437",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3524255737",
+          "timestamp": "1537308",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3029451980",
+          "timestamp": "1538509",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1591175662",
+          "timestamp": "1541579",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1548450452",
+          "timestamp": "1543280",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3172990535",
+          "timestamp": "1546150",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2223219260",
+          "timestamp": "1548119",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1884909155",
+          "timestamp": "1549320",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3636031055",
+          "timestamp": "1551288",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "462674606",
+          "timestamp": "1554525",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3013999869",
+          "timestamp": "1555726",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3470653770",
+          "timestamp": "1557194",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2249571958",
+          "timestamp": "1560064",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2448163926",
+          "timestamp": "1563000",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2877441246",
+          "timestamp": "1566170",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "86080545",
+          "timestamp": "1567538",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2147177172",
+          "timestamp": "1569807",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1504086112",
+          "timestamp": "1573077",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2274327242",
+          "timestamp": "1574812",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "222400402",
+          "timestamp": "1577481",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2441603149",
+          "timestamp": "1581352",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "940720991",
+          "timestamp": "1584488",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3174650981",
+          "timestamp": "1587892",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2026431475",
+          "timestamp": "1591362",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3888371817",
+          "timestamp": "1594532",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3600462459",
+          "timestamp": "1595666",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4112742243",
+          "timestamp": "1597234",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3150569508",
+          "timestamp": "1598235",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1028185559",
+          "timestamp": "1605076",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3337074929",
+          "timestamp": "1606544",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1959243892",
+          "timestamp": "1611348",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "868103536",
+          "timestamp": "1612550",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4243186663",
+          "timestamp": "1616153",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "392521504",
+          "timestamp": "1617221",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3931990628",
+          "timestamp": "1618422",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1158138834",
+          "timestamp": "1619590",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "948410878",
+          "timestamp": "1621625",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1705352130",
+          "timestamp": "1623594",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2524726477",
+          "timestamp": "1625830",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1647803",
+          "timestamp": "1627098",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1759610656",
+          "timestamp": "1629533",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4215206480",
+          "timestamp": "1630668",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1792156899",
+          "timestamp": "1631735",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "695496660",
+          "timestamp": "1633104",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "759155798",
+          "timestamp": "1636574",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1178710321",
+          "timestamp": "1638809",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "19038720",
+          "timestamp": "1640878",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4148689691",
+          "timestamp": "1641979",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1964182925",
+          "timestamp": "1643614",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3250367752",
+          "timestamp": "1644882",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3502977989",
+          "timestamp": "1648819",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "845850392",
+          "timestamp": "1650287",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2429974364",
+          "timestamp": "1651956",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1088519886",
+          "timestamp": "1653224",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2642568900",
+          "timestamp": "1654492",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2046907133",
+          "timestamp": "1655626",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "333773132",
+          "timestamp": "1657461",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2861549524",
+          "timestamp": "1660197",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3216139422",
+          "timestamp": "1661565",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1401361370",
+          "timestamp": "1662600",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2482258748",
+          "timestamp": "1663934",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2738255891",
+          "timestamp": "1665836",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1216910533",
+          "timestamp": "1669140",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2789496461",
+          "timestamp": "1670908",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2389350308",
+          "timestamp": "1675913",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4212177905",
+          "timestamp": "1675913",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "45028717",
+          "timestamp": "1677915",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1270038801",
+          "timestamp": "1679416",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4092455716",
+          "timestamp": "1683521",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1738903872",
+          "timestamp": "1684889",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1926903289",
+          "timestamp": "1687525",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1389016980",
+          "timestamp": "1688759",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2249441354",
+          "timestamp": "1691262",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3933200432",
+          "timestamp": "1695099",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3506376945",
+          "timestamp": "1696333",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3864797978",
+          "timestamp": "1699637",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2140479439",
+          "timestamp": "1700804",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2648258827",
+          "timestamp": "1704041",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "128780524",
+          "timestamp": "1705409",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1290846176",
+          "timestamp": "1705409",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "11752895",
+          "timestamp": "1706243",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1024615933",
+          "timestamp": "1707912",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1151170852",
+          "timestamp": "1710581",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3600265526",
+          "timestamp": "1714585",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "48576",
+          "timestamp": "1717254",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "465477958",
+          "timestamp": "1719256",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3940976592",
+          "timestamp": "1720591",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3587981061",
+          "timestamp": "1721425",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3348009318",
+          "timestamp": "1722693",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2657200761",
+          "timestamp": "1724795",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4131945064",
+          "timestamp": "1727464",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1055664147",
+          "timestamp": "1728599",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2692491310",
+          "timestamp": "1730267",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2428648643",
+          "timestamp": "1749486",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2695491219",
+          "timestamp": "1751355",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "174199586",
+          "timestamp": "1751355",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3979908587",
+          "timestamp": "1752590",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2400763355",
+          "timestamp": "1754725",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "761012514",
+          "timestamp": "1757294",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3668026359",
+          "timestamp": "1758229",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "251843046",
+          "timestamp": "1759330",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "47104",
+          "timestamp": "1760764",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2895916668",
+          "timestamp": "1764268",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3113463386",
+          "timestamp": "1766036",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2217283364",
+          "timestamp": "1767071",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3444412950",
+          "timestamp": "1771075",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1856796131",
+          "timestamp": "1772276",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "580495550",
+          "timestamp": "1774545",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2233334166",
+          "timestamp": "1777881",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "124388325",
+          "timestamp": "1780317",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1131610341",
+          "timestamp": "1781685",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4005619000",
+          "timestamp": "1784655",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1508800",
+          "timestamp": "1788392",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1940433696",
+          "timestamp": "1794932",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3618335792",
+          "timestamp": "1796233",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3908589674",
+          "timestamp": "1796267",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "246196305",
+          "timestamp": "1797434",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2362252484",
+          "timestamp": "1801105",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1855731723",
+          "timestamp": "1803941",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1873333564",
+          "timestamp": "1806744",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2116721427",
+          "timestamp": "1847618",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "4055122847",
+          "timestamp": "1848619",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3983172980",
+          "timestamp": "1852222",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3308906887",
+          "timestamp": "1853691",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3347344320",
+          "timestamp": "1855459",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3422974382",
+          "timestamp": "1856460",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1175291660",
+          "timestamp": "1857695",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1116711280",
+          "timestamp": "1859563",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1007657417",
+          "timestamp": "1862499",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "574480638",
+          "timestamp": "1866003",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1736767739",
+          "timestamp": "1868739",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3789233000",
+          "timestamp": "1870908",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2060317143",
+          "timestamp": "1873210",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2225478848",
+          "timestamp": "1876080",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "918446263",
+          "timestamp": "1877614",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1365622310",
+          "timestamp": "1879883",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "1984894748",
+          "timestamp": "1881085",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2917903271",
+          "timestamp": "1882386",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "414202786",
+          "timestamp": "1886190",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3592538424",
+          "timestamp": "1887558",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3447777338",
+          "timestamp": "1888559",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "22668299",
+          "timestamp": "1902673",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "24822984",
+          "timestamp": "1905309",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3940264676",
+          "timestamp": "1908779",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "2559127440",
+          "timestamp": "1910647",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "3592885565",
+          "timestamp": "1915519",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "92161927",
+          "timestamp": "1918822",
+          "type": "clipSyncMark"
+        }
+      ],
+      "type": "clipMetadata"
+    }
+  ]
+}

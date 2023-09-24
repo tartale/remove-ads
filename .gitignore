@@ -1,0 +1,11 @@
+.DS_Store
+.envrc
+.vscode/
+.idea/
+vscode.env
+debug/
+*.ts
+go.work
+go.work.sum
+tmp/
+output/
