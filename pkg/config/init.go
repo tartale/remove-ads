@@ -42,12 +42,11 @@ func InitConfig(cfgFile string) {
 		}
 		viper.AutomaticEnv() // read in environment variables that match
 
-		Values.SetDefaults()
-
 		// If a config file is found, read it in.
 		if err := viper.ReadInConfig(); err == nil {
 			fmt.Fprintln(os.Stdout, "using config file:", viper.ConfigFileUsed())
 		}
+		Values.SetDefaults()
 
 		err = viper.Unmarshal(&Values)
 		if err != nil {

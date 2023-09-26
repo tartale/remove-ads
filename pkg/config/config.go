@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os/exec"
 	"reflect"
+	"time"
 
 	"github.com/go-playground/validator/v10"
 	"github.com/mcuadros/go-defaults"
@@ -19,14 +20,14 @@ var (
 )
 
 type values struct {
-	LogLevel string `mapstructure:"RMADS_LOG_LEVEL" default:"INFO"`
-	DryRun   bool   `mapstructure:"RMADS_DRY_RUN" default:"false"`
+	LogLevel            string        `mapstructure:"RMADS_LOG_LEVEL" default:"INFO"`
+	TempDir             string        `mapstructure:"RMADS_TEMP_DIR" default:"${PWD}/tmp"`
+	StillFramesInterval time.Duration `mapstructure:"RMADS_THUMBNAIL_INTERVAL" default:"5s"`
 
-	TempDir         string `mapstructure:"RMADS_TEMP_DIR" default:"${PWD}/tmp" validate:"dir"`
 	FFmpegFilePath  string `default:"" validate:"required,file"`
 	FFprobeFilePath string `default:"" validate:"required,file"`
 	SkipFilePath    string `default:"" validate:"required,file"`
-	InputFilePath   string `default:""`
+	InputFilePath   string `default:"" validate:"required,file"`
 	OutputFilePath  string `default:""`
 }
 

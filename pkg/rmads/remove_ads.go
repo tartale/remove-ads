@@ -19,3 +19,17 @@ func RemoveAds(ctx context.Context) error {
 
 	return nil
 }
+
+func Preview(ctx context.Context) error {
+
+	_, err := ImportSkipFile(config.Values.SkipFilePath)
+	if err != nil {
+		return err
+	}
+	err = CreatePreview(config.Values.InputFilePath)
+	if err != nil {
+		return err
+	}
+
+	return nil
+}

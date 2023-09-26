@@ -31,14 +31,9 @@ func GetTestFiles() (utTivoMetadataPath, intTestTivoMetadataPath, intTestTranspo
 	return
 }
 
-func CheckFilesExist(t *testing.T, filePaths ...string) {
+func CheckFilesExist(t *testing.T, paths ...string) {
 
-	var missingFiles []string
-	for _, filePath := range filePaths {
-		if !filez.Exists(filePath) {
-			missingFiles = append(missingFiles, filePath)
-		}
-	}
+	missingFiles := filez.Exist(paths...)
 	if len(missingFiles) > 0 {
 		assert.Fail(t, fmt.Sprintf("%s: test data file(s) '%s'", errorz.ErrNotFound.Error(), strings.Join(missingFiles, ",")))
 	}

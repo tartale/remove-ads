@@ -2,6 +2,7 @@ package rmads
 
 import (
 	"fmt"
+	"path"
 	"testing"
 
 	"github.com/stretchr/testify/assert"
@@ -10,15 +11,15 @@ import (
 )
 
 // ffmpeg -i input.mp4 -vf fps=1/4 %04d.png
-
-func TestMakeCreatePreviewCmd(t *testing.T) {
+func TestMakeThumbnailsCmd(t *testing.T) {
 
 	_, _, testTransportStreamPath := test.GetTestFiles()
 	test.CheckFilesExist(t, testTransportStreamPath)
 
-	expectedFfmpegCmd := fmt.Sprintf(`%s -y -i %s -vf fps=1/4 %s/%%04d.png`,
-		config.Values.FFmpegFilePath, testTransportStreamPath, config.Values.TempDir)
-	ffmpegCmd, err := makeCreatePreviewCommand(testTransportStreamPath)
+	testTransportStreamFilename := path.Base(testTransportStreamPath)
+	expectedFfmpegCmd := fmt.Sprintf(`%s -y -hwaccel auto -i %s -vf fps=1/5 %s/%s-%%04d.png`,
+		config.Values.FFmpegFilePath, testTransportStreamPath, config.Values.TempDir, testTransportStreamFilename)
+	ffmpegCmd, err := makeGenerateStillFramesCmd(testTransportStreamPath)
 
 	assert.Nil(t, err)
 	assert.Equal(t, expectedFfmpegCmd, ffmpegCmd.String())

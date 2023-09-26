@@ -10,7 +10,8 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.16.0
 	github.com/stretchr/testify v1.8.4
-	github.com/tartale/go v0.0.0-20230915210743-aa339874da00
+	github.com/tartale/go v0.0.0-20230926211523-0bec65078c8f
+	golang.org/x/image v0.0.0-20190802002840-cff245a6509b
 )
 
 require (

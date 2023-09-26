@@ -105,9 +105,9 @@ func TestMakeRemoveSegmentsCmd(t *testing.T) {
 
 	expectedFfmpegCmd := fmt.Sprintf(`%s -y -i %s `+
 		`-vf select='between(t\,1\,20)+between(t\,30\,40)+between(t\,2\,19)+between(t\,23\,39),setpts=N/FRAME_RATE/TB' `+
-		`-af aselect='between(t\,1\,20)+between(t\,30\,40)+between(t\,2\,19)+between(t\,23\,39),asetpts=N/SR/TB' -`,
+		`-af aselect='between(t\,1\,20)+between(t\,30\,40)+between(t\,2\,19)+between(t\,23\,39),asetpts=N/SR/TB' /foo/bar.mp4`,
 		config.Values.FFmpegFilePath, testTransportStreamPath)
-	ffmpegCmd, err := markers.Segments.makeRemoveCommand(testTransportStreamPath, "")
+	ffmpegCmd, err := markers.Segments.makeRemoveCommand(testTransportStreamPath, "/foo/bar.mp4")
 
 	assert.Nil(t, err)
 	assert.Equal(t, expectedFfmpegCmd, ffmpegCmd.String())

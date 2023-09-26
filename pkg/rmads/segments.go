@@ -75,13 +75,6 @@ func (s Segments) Remove(ctx context.Context, inputFilePath, outputFilePath stri
 
 func (s Segments) makeRemoveCommand(inputFilePath, outputFilePath string) (*exec.Cmd, error) {
 
-	if inputFilePath == "" {
-		inputFilePath = "-"
-	}
-	if outputFilePath == "" {
-		outputFilePath = "-"
-	}
-
 	var timeSelect []string
 	for _, segment := range s {
 		startOffset := mathx.Floor(segment.StartOffset.Seconds())
