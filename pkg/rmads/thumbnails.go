@@ -9,11 +9,11 @@ import (
 	"golang.org/x/image/draw"
 )
 
-func createThumbnailImages(videoPath string) ([]image.Image, error) {
+func createThumbnailImages(videoPath string) ([]*image.RGBA, error) {
 
 	stillFramesDir, _, _ := getPreviewPaths(videoPath)
 
-	var thumbnails []image.Image
+	var thumbnails []*image.RGBA
 	err := filepath.WalkDir(stillFramesDir, func(imgFilename string, _ os.DirEntry, _ error) error {
 
 		if !strings.HasSuffix(imgFilename, "png") {

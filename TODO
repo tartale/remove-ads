@@ -1,7 +1,6 @@
 [x] Import Tivo metadata
-[] Image strip preview
+[x] Image strip preview
 [] Remove ads CLI
-[] 
 [] Integrate Comskip detection
   [] Import VideoRedo metadata
 [] Interactive preview

@@ -22,7 +22,7 @@ var (
 type values struct {
 	LogLevel            string        `mapstructure:"RMADS_LOG_LEVEL" default:"INFO"`
 	TempDir             string        `mapstructure:"RMADS_TEMP_DIR" default:"${PWD}/tmp"`
-	StillFramesInterval time.Duration `mapstructure:"RMADS_THUMBNAIL_INTERVAL" default:"5s"`
+	StillFramesInterval time.Duration `mapstructure:"RMADS_PREVIEW_IMAGE_INTERVAL" default:"3s"`
 
 	FFmpegFilePath  string `default:"" validate:"required,file"`
 	FFprobeFilePath string `default:"" validate:"required,file"`

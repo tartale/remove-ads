@@ -26,7 +26,7 @@ func Preview(ctx context.Context) error {
 	if err != nil {
 		return err
 	}
-	err = CreatePreview(config.Values.InputFilePath)
+	err = CreatePreviews(config.Values.InputFilePath)
 	if err != nil {
 		return err
 	}

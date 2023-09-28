@@ -10,13 +10,20 @@ import (
 	"path/filepath"
 	"time"
 
+	"fyne.io/fyne/v2/app"
+	"fyne.io/fyne/v2/canvas"
+	"fyne.io/fyne/v2/container"
+
 	"github.com/tartale/go/pkg/filez"
 	"github.com/tartale/go/pkg/mathx"
 	"github.com/tartale/remove-ads/pkg/config"
 	"golang.org/x/image/draw"
+	"golang.org/x/image/font"
+	"golang.org/x/image/font/basicfont"
+	"golang.org/x/image/math/fixed"
 )
 
-func CreatePreview(videoPath string) error {
+func CreatePreviews(videoPath string) error {
 
 	err := generateStillFrames(videoPath)
 	if err != nil {
@@ -44,12 +51,26 @@ func CreatePreview(videoPath string) error {
 	return nil
 }
 
+func DisplayPreview(videoPath string) {
+
+	previewApp := app.New()
+	previewWindow := previewApp.NewWindow("Preview")
+
+	_, previewsDir, _ := getPreviewPaths(videoPath)
+	img := canvas.NewImageFromFile(filepath.Join(previewsDir, "intTestTransportStream-000001.png"))
+
+	content := container.NewVBox(img)
+	previewWindow.SetContent(content)
+	previewWindow.ShowAndRun()
+}
+
 func createPreviewImages(videoPath string) ([]image.Image, error) {
 
 	thumbnailImages, err := createThumbnailImages(videoPath)
 	if err != nil {
 		return nil, err
 	}
+	addTimestampLabels(thumbnailImages)
 
 	// break the preview images into 1-minute blocks
 	oneMinuteMills := int((1 * time.Minute).Milliseconds())
@@ -80,7 +101,31 @@ func getPreviewPaths(videoPath string) (stillFramesDir, previewsDir, filePattern
 	return
 }
 
-func stitchImages(imgs []image.Image) image.Image {
+func addTimestampLabels(imgs []*image.RGBA) {
+
+	timeOffset := time.Duration(0)
+
+	for _, img := range imgs {
+		imgWidth, imgHeight := img.Bounds().Dx(), img.Bounds().Dy()
+		labelX := imgWidth - (imgWidth / 5)
+		labelY := imgHeight - (imgHeight / 8)
+
+		col := color.White
+		point := fixed.Point26_6{X: fixed.I(labelX), Y: fixed.I(labelY)}
+		d := &font.Drawer{
+			Dst:  img,
+			Src:  image.NewUniform(col),
+			Face: basicfont.Face7x13,
+			Dot:  point,
+		}
+		formattedTimeOffset := time.Unix(0, 0).UTC().Add(time.Duration(timeOffset)).
+			Format(time.TimeOnly)
+		d.DrawString(formattedTimeOffset)
+		timeOffset += config.Values.StillFramesInterval
+	}
+}
+
+func stitchImages(imgs []*image.RGBA) *image.RGBA {
 
 	if len(imgs) == 0 {
 		return nil
