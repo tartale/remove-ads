@@ -6,14 +6,15 @@ import (
 	"path/filepath"
 	"strings"
 
+	"github.com/tartale/go/pkg/images"
 	"golang.org/x/image/draw"
 )
 
-func createThumbnailImages(videoPath string) ([]*image.RGBA, error) {
+func createThumbnailImages(videoPath string) ([]images.DrawableImage, error) {
 
 	stillFramesDir, _, _ := getPreviewPaths(videoPath)
 
-	var thumbnails []*image.RGBA
+	var thumbnails []images.DrawableImage
 	err := filepath.WalkDir(stillFramesDir, func(imgFilename string, _ os.DirEntry, _ error) error {
 
 		if !strings.HasSuffix(imgFilename, "png") {

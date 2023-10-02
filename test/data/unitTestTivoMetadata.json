@@ -18,7 +18,19 @@
         }
       ],
       "segmentType": "adSkip",
-      "type": "clipMetadata"
+      "type": "clipMetadata",
+      "syncMark": [
+        {
+          "hash": "12345",
+          "timestamp": "1500",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "67890",
+          "timestamp": "2500",
+          "type": "clipSyncMark"
+        }
+      ]
     },
     {
       "clipMetadataId": "tivo:cm.01234",
@@ -38,7 +50,19 @@
         }
       ],
       "segmentType": "adSkip",
-      "type": "clipMetadata"
+      "type": "clipMetadata",
+      "syncMark": [
+        {
+          "hash": "12345",
+          "timestamp": "5000",
+          "type": "clipSyncMark"
+        },
+        {
+          "hash": "67890",
+          "timestamp": "6000",
+          "type": "clipSyncMark"
+        }
+      ]
     }
   ]
 }

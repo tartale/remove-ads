@@ -65,6 +65,29 @@ func ImportTivoClipMetadata(tivoClipMetadata []byte) (*Markers, error) {
 
 			markers.Segments = append(markers.Segments, segment)
 		}
+
+		syncMarks, err := jsonx.QueryObjToType[[]any]("syncMark", cm)
+		if err != nil {
+			return nil, err
+		}
+		for _, syncMarkObj := range *syncMarks {
+			var (
+				timestampStr *string
+				timstampVal  int
+				timestamp    Timestamp
+			)
+
+			timestampStr, err = jsonx.QueryObjToType[string]("timestamp", syncMarkObj)
+			if err != nil {
+				return nil, fmt.Errorf("%w: field 'timestamp' is required", errorz.ErrInvalidArgument)
+			}
+			err = primitives.Parse(*timestampStr, &timstampVal)
+			if err != nil {
+				return nil, err
+			}
+			timestamp.Timestamp = time.Duration(timstampVal) * time.Millisecond
+			markers.Timestamps = append(markers.Timestamps, timestamp)
+		}
 	}
 
 	return &markers, nil
