@@ -29,6 +29,8 @@ type values struct {
 	SkipFilePath    string `default:"" validate:"required,file"`
 	InputFilePath   string `default:"" validate:"required,file"`
 	OutputFilePath  string `default:""`
+
+	Shift time.Duration `default:"0"`
 }
 
 func (v *values) SetDefaults() {

@@ -11,11 +11,11 @@ import (
 
 func TestImportTivoSkip(t *testing.T) {
 
-	testMetadataPath, _, _ := test.GetTestFiles()
+	testMetadataPath := test.TivoMetadataPath
 	test.CheckFilesExist(t, testMetadataPath)
-
 	testMetadataInput := filez.MustReadAll(testMetadataPath)
-	markers, err := ImportTivoClipMetadata(testMetadataInput)
+
+	markers, err := ImportTivoClipMetadata(testMetadataInput, time.Duration(0))
 	assert.Nil(t, err)
 	assert.NotNil(t, markers)
 	assert.Len(t, markers.Segments, 4)

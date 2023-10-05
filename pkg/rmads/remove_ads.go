@@ -8,7 +8,7 @@ import (
 
 func RemoveAds(ctx context.Context) error {
 
-	markers, err := ImportSkipFile(config.Values.SkipFilePath)
+	markers, err := ImportSkipFile(config.Values.SkipFilePath, config.Values.Shift)
 	if err != nil {
 		return err
 	}
@@ -22,7 +22,7 @@ func RemoveAds(ctx context.Context) error {
 
 func Preview(ctx context.Context) error {
 
-	_, err := ImportSkipFile(config.Values.SkipFilePath)
+	_, err := ImportSkipFile(config.Values.SkipFilePath, config.Values.Shift)
 	if err != nil {
 		return err
 	}

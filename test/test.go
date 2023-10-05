@@ -11,6 +11,12 @@ import (
 	"github.com/tartale/go/pkg/filez"
 )
 
+var (
+	UtTivoMetadataPath  = path.Join(GetTestDir(), "data", string("unitTestTivoMetadata.json"))
+	TivoMetadataPath    = path.Join(GetTestDir(), "data", string("intTestTivoMetadata.json"))
+	TransportStreamPath = path.Join(GetTestDir(), "data", string("intTestTransportStream.ts"))
+)
+
 func GetTestDir() string {
 
 	rootDir, found := filez.GetRootDirForCaller(1)
@@ -19,16 +25,6 @@ func GetTestDir() string {
 	}
 
 	return path.Join(rootDir, "test")
-}
-
-func GetTestFiles() (utTivoMetadataPath, intTestTivoMetadataPath, intTestTransportStreamPath string) {
-
-	testDir := GetTestDir()
-	utTivoMetadataPath = path.Join(testDir, "data", "unitTestTivoMetadata.json")
-	intTestTivoMetadataPath = path.Join(testDir, "data", "intTestTivoMetadata.json")
-	intTestTransportStreamPath = path.Join(testDir, "data", "intTestTransportStream.ts")
-
-	return
 }
 
 func CheckFilesExist(t *testing.T, paths ...string) {

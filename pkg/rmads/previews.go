@@ -87,10 +87,10 @@ func createPreviewImages(videoPath string) ([]images.DrawableImage, error) {
 	}
 	addTimestampLabels(thumbnailImages)
 
-	// break the preview images into 1-minute blocks
-	oneMinuteMills := int((previewBlockDuration).Milliseconds())
+	// break the preview images into blocks
+	blockDurationMillis := int((previewBlockDuration).Milliseconds())
 	thumbnailIntervalMillis := int(config.Values.StillFramesInterval.Milliseconds())
-	imagesPerBlock := oneMinuteMills / thumbnailIntervalMillis
+	imagesPerBlock := blockDurationMillis / thumbnailIntervalMillis
 	thumbnailCount := len(thumbnailImages)
 	var previewImages []images.DrawableImage
 	for i := 0; i < thumbnailCount; {
@@ -100,7 +100,7 @@ func createPreviewImages(videoPath string) ([]images.DrawableImage, error) {
 		i += imagesPerBlock
 	}
 
-	markers, err := ImportSkipFile(config.Values.SkipFilePath)
+	markers, err := ImportSkipFile(config.Values.SkipFilePath, config.Values.Shift)
 	if err != nil {
 		return nil, err
 	}
@@ -177,8 +177,8 @@ func addMarkers(previewImgs []images.DrawableImage, markers *Markers) {
 	logger := logz.Logger()
 	for _, segment := range markers.Segments {
 		logger.Debugf("segment times: %s to %s\n", segment.StartOffset.String(), segment.EndOffset.String())
-
 		startImgIndex, startX, endImgIndex, endX := getSegmentOffsets(segment, previewImgs)
+		logger.Debugf("adding markers: startIndex: %d; startX: %d; endIndex: %d; endX: %d\n", startImgIndex, startX, endImgIndex, endX)
 		if startImgIndex == endImgIndex {
 			img := previewImgs[startImgIndex]
 			height := img.Bounds().Max.Y
@@ -206,8 +206,6 @@ func addMarkers(previewImgs []images.DrawableImage, markers *Markers) {
 			}
 			// createImageFile(config.Values.TempDir, "current-image.png", img)
 		}
-
-		logger.Debugf("added markers: startIndex: %d; startX: %d; endIndex: %d; endX: %d\n", startImgIndex, startX, endImgIndex, endX)
 	}
 
 	// for _, ts := range markers.Timestamps {
@@ -224,8 +222,8 @@ func getSegmentOffsets(segment Segment, imgs []images.DrawableImage) (startImgIn
 	var startFloat, endFloat float64
 	startImgIndex, startFloat = getOffsets(segment.StartOffset, imgs)
 	endImgIndex, endFloat = getOffsets(segment.EndOffset, imgs)
-	startX = mathx.Ceil(startFloat)
-	endX = mathx.Floor(endFloat)
+	startX = mathx.Floor(startFloat)
+	endX = mathx.Ceil(endFloat)
 
 	return
 }
@@ -235,7 +233,12 @@ func getOffsets(offset time.Duration, imgs []images.DrawableImage) (imgIndex int
 	offsetTime := time.Time{}.Add(offset)
 	offsetSeconds := offsetTime.Second()
 	offsetMinutes := offsetTime.Minute()
-	imgIndex = mathx.Min(offsetMinutes, len(imgs)-1)
+	imgIndex = offsetMinutes - 1
+	if imgIndex >= len(imgs) {
+		imgIndex = len(imgs) - 1
+		offsetSeconds = 60
+	}
+	imgIndex = mathx.Max(imgIndex, 0)
 	img := imgs[imgIndex]
 	imgWidth := img.Bounds().Dx()
 	offsetPercent := float64(offsetSeconds) / 60.0

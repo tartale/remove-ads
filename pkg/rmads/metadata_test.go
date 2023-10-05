@@ -10,8 +10,9 @@ import (
 
 func TestGetShowDuration(t *testing.T) {
 
-	_, _, transportStreamPath := test.GetTestFiles()
+	transportStreamPath := test.TransportStreamPath
 	test.CheckFilesExist(t, transportStreamPath)
+
 	ctx := context.Background()
 
 	showDuration, err := GetShowDuration(ctx, transportStreamPath)

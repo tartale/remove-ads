@@ -13,13 +13,12 @@ import (
 // ffmpeg -i input.mp4 -vf fps=1/4 %04d.png
 func TestMakeThumbnailsCmd(t *testing.T) {
 
-	_, _, testTransportStreamPath := test.GetTestFiles()
-	test.CheckFilesExist(t, testTransportStreamPath)
+	test.CheckFilesExist(t, test.TransportStreamPath)
 
-	testTransportStreamFilename := path.Base(testTransportStreamPath)
+	testTransportStreamFilename := path.Base(test.TransportStreamPath)
 	expectedFfmpegCmd := fmt.Sprintf(`%s -y -hwaccel auto -i %s -vf fps=1/5 %s/%s-%%04d.png`,
-		config.Values.FFmpegFilePath, testTransportStreamPath, config.Values.TempDir, testTransportStreamFilename)
-	ffmpegCmd, err := makeGenerateStillFramesCmd(testTransportStreamPath)
+		config.Values.FFmpegFilePath, test.TransportStreamPath, config.Values.TempDir, testTransportStreamFilename)
+	ffmpegCmd, err := makeGenerateStillFramesCmd(test.TransportStreamPath)
 
 	assert.Nil(t, err)
 	assert.Equal(t, expectedFfmpegCmd, ffmpegCmd.String())

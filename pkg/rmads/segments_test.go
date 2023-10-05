@@ -96,18 +96,18 @@ func TestInvertSegments_StartAtZeroEndAtEndtime(t *testing.T) {
 
 func TestMakeRemoveSegmentsCmd(t *testing.T) {
 
-	testMetadataPath, _, testTransportStreamPath := test.GetTestFiles()
-	test.CheckFilesExist(t, testMetadataPath, testTransportStreamPath)
-
-	metadataInput := filez.MustReadAll(testMetadataPath)
-	markers, err := ImportTivoClipMetadata(metadataInput)
+	metadataPath := test.TivoMetadataPath
+	transportStreamPath := test.TransportStreamPath
+	test.CheckFilesExist(t, metadataPath, transportStreamPath)
+	metadataInput := filez.MustReadAll(metadataPath)
+	markers, err := ImportTivoClipMetadata(metadataInput, time.Duration(0))
 	assert.Nil(t, err)
 
 	expectedFfmpegCmd := fmt.Sprintf(`%s -y -i %s `+
 		`-vf select='between(t\,1\,20)+between(t\,30\,40)+between(t\,2\,19)+between(t\,23\,39),setpts=N/FRAME_RATE/TB' `+
 		`-af aselect='between(t\,1\,20)+between(t\,30\,40)+between(t\,2\,19)+between(t\,23\,39),asetpts=N/SR/TB' /foo/bar.mp4`,
-		config.Values.FFmpegFilePath, testTransportStreamPath)
-	ffmpegCmd, err := markers.Segments.makeRemoveCommand(testTransportStreamPath, "/foo/bar.mp4")
+		config.Values.FFmpegFilePath, transportStreamPath)
+	ffmpegCmd, err := markers.Segments.makeRemoveCommand(transportStreamPath, "/foo/bar.mp4")
 
 	assert.Nil(t, err)
 	assert.Equal(t, expectedFfmpegCmd, ffmpegCmd.String())
@@ -116,9 +116,12 @@ func TestMakeRemoveSegmentsCmd(t *testing.T) {
 func TestRemoveSegments(t *testing.T) {
 
 	ctx := context.Background()
-	_, metadataPath, transportStreamPath := test.GetTestFiles()
+	metadataPath := test.TivoMetadataPath
+	transportStreamPath := test.TransportStreamPath
+	test.CheckFilesExist(t, metadataPath, transportStreamPath)
 	metadataInput := filez.MustReadAll(metadataPath)
-	markers, err := ImportTivoClipMetadata(metadataInput)
+
+	markers, err := ImportTivoClipMetadata(metadataInput, time.Duration(0))
 	assert.Nil(t, err)
 
 	markers.Segments.Remove(ctx, transportStreamPath, "")

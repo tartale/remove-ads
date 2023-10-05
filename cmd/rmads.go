@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"os"
+	"time"
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
@@ -58,9 +59,10 @@ func init() {
 	// will be global for your application.
 
 	rootCmd.PersistentFlags().StringVarP(&cfgFile, "config", "c", "", "config file (default is $HOME/.rmads.yaml)")
-	rootCmd.PersistentFlags().StringVarP(&config.Values.SkipFilePath, "skip", "s", "", "Skip file; contains the list of timestamps that indicate location of ads")
+	rootCmd.PersistentFlags().StringVarP(&config.Values.SkipFilePath, "skip", "s", "", "Skip data file; contains the list of timestamps that indicate location of ads")
 	rootCmd.PersistentFlags().StringVarP(&config.Values.InputFilePath, "input", "i", "", "Input video path; must be a path to an existing file")
 	rootCmd.PersistentFlags().StringVarP(&config.Values.OutputFilePath, "output", "o", "", "Output path; defaults to stdout")
+	rootCmd.PersistentFlags().DurationVarP(&config.Values.Shift, "shift", "f", time.Duration(0), "A value applied to shift the skip data timestamps to align with the input video")
 
 	// Copy those flags into root command
 	rootCmd.PersistentFlags().AddFlagSet(pflag.CommandLine)
